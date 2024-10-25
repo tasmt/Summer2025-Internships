@@ -104208,7 +104208,7 @@
         "company_name": "Fidelity Investments",
         "id": "c473b469-713d-47fb-9ec0-540acd19444d",
         "title": "Summer 2025 Undergraduate Internship - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111170,7 +111170,7 @@
         "company_name": "Loop Returns",
         "id": "9c1c4167-fd18-42f0-abf2-39d914f65a23",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"

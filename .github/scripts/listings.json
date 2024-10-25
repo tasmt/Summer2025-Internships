@@ -91272,7 +91272,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105266,7 +105266,7 @@
         "company_name": "OpenAI",
         "id": "0559dbe7-6905-4c1e-85f2-8b03cd46d8a0",
         "title": "Software Engineer Internship / Co-op - Applied Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114582,7 +114582,7 @@
         "company_name": "Waymo",
         "id": "a88ccf65-b84b-42b2-bc4c-06388cba4d4c",
         "title": "2025 Summer Intern - BS/MS - ML Infra - Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

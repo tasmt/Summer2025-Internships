@@ -95247,7 +95247,7 @@
         "company_name": "Tanium",
         "id": "5768b126-9f93-4ac4-bb30-da0b17e43ca0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -115163,7 +115163,7 @@
         "company_name": "Wing",
         "id": "090c2aa4-42ce-4eaf-aa24-58ffd809e0b2",
         "title": "Backend Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -116785,7 +116785,7 @@
         "company_name": "MarketAxess",
         "id": "c23db832-36f8-4de7-b1f0-ee73916ffc45",
         "title": "Research Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116855,6 +116855,25 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "617042dd-bec0-4337-8a68-ef785ecd0259",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729868842,
+        "date_posted": 1729868842,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/6342326",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
         "is_visible": true,
         "sponsorship": "Other"
     }

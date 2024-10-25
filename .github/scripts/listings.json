@@ -116741,5 +116741,24 @@
         "date_posted": 1729830202,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1729830307,
+        "url": "https://www.pega.com/about/careers/21105/software-engineer-summer-intern-orion",
+        "company_name": "Pegasystems",
+        "title": "Software Engineer Summer Intern, Orion",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "a5176dd9-033b-4db4-8aa5-89b37a8f7f5e",
+        "date_posted": 1729830307,
+        "company_url": "",
+        "is_visible": true
     }
 ]

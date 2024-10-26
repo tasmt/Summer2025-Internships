@@ -118666,5 +118666,309 @@
         "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "a4abfe75-7674-48ac-b9c3-83a42fc997f2",
+        "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912678,
+        "date_posted": 1729912678,
+        "url": "https://jobs.ashbyhq.com/snowflake/60ae5cfb-3b6b-4313-bf58-8438314ff299/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "e7f84bee-fe8c-46e5-894b-99d14601d1d6",
+        "title": "Software Engineer Intern - Database Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912674,
+        "date_posted": 1729912674,
+        "url": "https://jobs.ashbyhq.com/snowflake/2bba63f5-7f49-44d6-993e-d3111a082e69/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "df1079cd-d692-4cff-89ee-db8a243bd270",
+        "title": "Software Engineer Intern - Toronto - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912673,
+        "date_posted": 1729912673,
+        "url": "https://jobs.ashbyhq.com/snowflake/ca0cea54-4c3d-4f41-ae88-bb92e3b7fbb6/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "3fe95a96-6151-4a3f-bc02-d47cf818e062",
+        "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912672,
+        "date_posted": 1729912672,
+        "url": "https://jobs.ashbyhq.com/snowflake/e6f42b75-39e4-466f-bda4-471d7f341b75/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "bea9aeee-1ba9-4971-8456-8e5fb97c5da8",
+        "title": "Software Engineer Intern - Core Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/fa800891-4be7-42ce-9031-3fa119823404/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "bc3e4348-c9c3-4f55-9b43-3bcc2c007183",
+        "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/4a121d87-7ac5-4230-8d0f-9cd9e1493a08/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "b7a8b7e8-94b0-4a29-bbf8-73d4bc86bf73",
+        "title": "Software Engineer Intern - Database Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/f2918973-b075-4727-8922-1d6da096369d/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "9d37bf4f-7d31-4895-b7be-0f115f6f3064",
+        "title": "Software Engineer Intern - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/152b293d-ec65-4862-8957-7f50089728ac/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "9779a558-dab8-4de1-a9af-6494671e47a4",
+        "title": "Software Engineer Intern - Core Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912666,
+        "date_posted": 1729912666,
+        "url": "https://jobs.ashbyhq.com/snowflake/7b22dd31-9d5b-46f5-8b3f-a27be052fc06/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "6eb9352e-acd3-4723-8dff-3c631bc91e40",
+        "title": "Software Engineer Intern - Database Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/4269d964-d036-48e4-8b99-db60b2ba3729/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "6e540e89-80e8-4631-85e1-fa356073996d",
+        "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912666,
+        "date_posted": 1729912666,
+        "url": "https://jobs.ashbyhq.com/snowflake/ae5b6c6c-e165-4bb7-8ffd-ab14ba72d983/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "4782f900-0029-49e5-87be-3dfa74b4b2ee",
+        "title": "Software Engineer Intern - Core Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/b4a1c5f2-2050-48b0-9359-b0817d15973d/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "46fb8f5e-4402-4ccf-a76e-c349faa43ca9",
+        "title": "Software Engineer Intern - Database Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/3377623a-ef97-4eaf-abf5-c29180040540/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "1851ddf9-a6b2-47f5-9a72-87b628afc7fc",
+        "title": "Software Engineer Intern - Core Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/6b9eadd4-d00a-46ab-812f-a9dfce661fed/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "517772c6-92a3-4355-aa49-6084226aa71d",
+        "title": "Systems & Data Analytics Intern - US TV Production - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912617,
+        "date_posted": 1729912617,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Systems---Data-Analytics-Intern--US-TV-Production---Spring-2025_JR104689",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coinbase",
+        "id": "eac6b5a2-71cc-4b3b-9512-f4c6cc60bd24",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912367,
+        "date_posted": 1729912367,
+        "url": "https://www.coinbase.com/careers/positions/6266440?gh_jid=6266440",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/717694f5-7321-4c6f-91a5-5a46b250f459",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

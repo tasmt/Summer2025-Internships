@@ -117657,7 +117657,7 @@
         "company_name": "JM Family",
         "id": "b211f751-b9e5-454f-b592-719c1b906f5b",
         "title": "Intern \u2013 Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118247,7 +118247,7 @@
         "company_name": "JM Family",
         "id": "13628470-1cd0-4775-ade0-7cdbb26e51d9",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118305,7 +118305,7 @@
         "company_name": "JM Family",
         "id": "45c1ab7d-218e-4d23-ad0a-750365d74965",
         "title": "Intern \u2013 AI/ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118325,7 +118325,7 @@
         "company_name": "Otis",
         "id": "0fe42da1-a671-4024-81f9-95d2e247c9b8",
         "title": "Digital Technology Internet of Things \u2013 Intern - IoT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],

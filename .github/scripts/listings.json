@@ -94051,7 +94051,7 @@
         "company_name": "Nextdoor",
         "id": "d7411e6b-7edf-4a7e-9665-5e5a5038826d",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103263,7 +103263,7 @@
         "company_name": "Fetch",
         "id": "ad50b352-1e23-4fe6-903b-0fd9c0f4d07f",
         "title": "Android Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -116316,7 +116316,7 @@
         "company_name": "Autodesk",
         "id": "1899850b-0a4f-4574-b91f-6749e596f4f6",
         "title": "Intern \u2013 Software Developer - Jan to April 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],

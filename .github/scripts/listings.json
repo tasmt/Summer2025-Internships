@@ -119046,5 +119046,24 @@
         "date_posted": 1730080785,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730090436,
+        "url": "https://careers.gene.com/us/en/job/GENEUS202410126855EXTERNALENUS/2025-Summer-Intern-Product-Development-Data-Sciences",
+        "company_name": "Genentech",
+        "title": "2025 Summer Intern - Product Development Data Sciences",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d4505f8e-8f7e-4e58-929a-e9188298916c",
+        "date_posted": 1730090436,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -95644,8 +95644,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "LuaanNguyen",
-        "id": "da995daa-8db8-42d3-b256-889a27d093cf",
+        "source": "Simplify",
+        "id": "5a88d0aa-d86e-499b-9664-c878b07fe0f1",
         "date_posted": 1725245350,
         "company_url": "",
         "is_visible": true
@@ -119595,6 +119595,44 @@
             "North Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/SunwaterCapital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "c89d767c-de54-4af4-a739-3ea00bd33d57",
+        "title": "Business Intelligence Engineer Summer Internship - 2025 - US",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730232468,
+        "date_posted": 1730232468,
+        "url": "https://amazon.jobs/en/jobs/2740337/business-intelligence-engineer-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TIH",
+        "id": "0a64d3db-2ded-43e1-859b-e7e7017d01fe",
+        "title": "Intern \u2013 Salesforce Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730232169,
+        "date_posted": 1730232169,
+        "url": "https://tihinsurance.wd1.myworkdayjobs.com/en-US/TIH_Careers/job/Dallas-TX/Intern---Salesforce-Developer_R0000000384",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/2f524a20-88a9-4307-b97b-e39799afb4c7",
         "is_visible": true,
         "sponsorship": "Other"
     }

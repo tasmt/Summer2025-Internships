@@ -109452,7 +109452,7 @@
         "company_name": "Visa",
         "id": "e787962f-4b90-4633-bebe-a1b4329e69a7",
         "title": "Summer Intern - Software Engineering and Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -111724,7 +111724,7 @@
         "company_name": "Motorola",
         "id": "511d150a-b025-4d95-a9bc-c1c24b89f6c0",
         "title": "Software Engineering \u2013 Co-Op - Digital Signal Processing - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -114796,7 +114796,7 @@
         "company_name": "Clay",
         "id": "f4b469ab-d276-49a7-a06c-2965587b0999",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116006,7 +116006,7 @@
         "company_name": "Western Digital",
         "id": "9456ddf1-7204-4d98-8b80-87a5d0c82b21",
         "title": "Software Engineering Co-op - June-December 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -116553,7 +116553,7 @@
         "company_name": "Western Digital",
         "id": "5c887dab-98b9-4b34-a5eb-e415c673161e",
         "title": "Summer 2025 \u2013 Co-Op - Software Engineer - Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117152,7 +117152,7 @@
         "company_name": "Nordson",
         "id": "4c2f852c-025e-463f-aade-b0af54245aa1",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118537,7 +118537,7 @@
         "company_name": "Northrop Grumman",
         "id": "9971b235-383a-4200-85bd-094808e44ee6",
         "title": "2025 Systems/Software Intern-Huntsville AL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119246,7 +119246,7 @@
         "company_name": "Corelogic",
         "id": "4d409e7a-9744-4d5f-8def-4cfe533ae756",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119422,7 +119422,7 @@
         "company_name": "Hypertherm Associates",
         "id": "a84e65b3-d832-4ff0-b8ec-93ec18a410e2",
         "title": "Intern \u2013 Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],

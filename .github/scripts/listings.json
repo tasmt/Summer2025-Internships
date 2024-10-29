@@ -33695,7 +33695,7 @@
         "company_name": "Credit Karma",
         "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -103704,7 +103704,7 @@
         "company_name": "Elevance Health",
         "id": "758e1b35-3b6b-4803-8981-40fee5e1b31f",
         "title": "Data Intern-Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103728,7 +103728,7 @@
         "company_name": "Elevance Health",
         "id": "1d6f686a-a047-4a50-8f33-ff526f11227b",
         "title": "Engineering Internship-Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

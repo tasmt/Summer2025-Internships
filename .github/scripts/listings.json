@@ -111645,7 +111645,7 @@
         "company_name": "PlayStation Global",
         "id": "7bab1660-437e-490c-be82-02918c4eaf86",
         "title": "Software Development Engineer in Test Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -117717,7 +117717,7 @@
         "company_name": "USAA",
         "id": "22d4edc9-333e-4b71-a827-cc9e1e48f576",
         "title": "CFO Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -119509,6 +119509,92 @@
             "Menlo Park, CA"
         ],
         "company_url": "https://simplify.jobs/c/Altera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "bfdd37a0-ab05-4750-898a-da67c5e68c06",
+        "title": "Software Development Engineer in Test Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730231808,
+        "date_posted": 1730231808,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343132004",
+        "locations": [
+            "California",
+            "San Mateo, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "cfdbd924-9167-4ef8-8cb6-174a36181308",
+        "title": "Spatial Computer Vision Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730231829,
+        "date_posted": 1730231829,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340510004",
+        "locations": [
+            "San Mateo, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "0ee99490-91f7-470b-acd2-3f6d12d087e0",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730231813,
+        "date_posted": 1730231813,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340499004",
+        "locations": [
+            "California",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunwater Capital",
+        "id": "4ba8a9d8-e274-4325-9d0e-c021733f1f08",
+        "title": "Intern-Data Science Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730231169,
+        "date_posted": 1730231169,
+        "url": "https://jobs.lever.co/sunwatercapital/6df3eca4-d23c-4c80-96b3-d0babb39fe31/apply",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SunwaterCapital",
         "is_visible": true,
         "sponsorship": "Other"
     }

@@ -118691,7 +118691,7 @@
         "company_name": "Snowflake",
         "id": "e7f84bee-fe8c-46e5-894b-99d14601d1d6",
         "title": "Software Engineer Intern - Database Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118767,7 +118767,7 @@
         "company_name": "Snowflake",
         "id": "bc3e4348-c9c3-4f55-9b43-3bcc2c007183",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

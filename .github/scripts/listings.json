@@ -91192,7 +91192,7 @@
         "company_name": "Databricks",
         "id": "3c4fd433-d0f1-4616-9949-70e4b7c5c452",
         "title": "Software Engineering Intern - 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -99353,7 +99353,7 @@
         "company_name": "Chatham Financial",
         "id": "7fdb9e5d-ea56-464c-a914-c8e74c37a9a6",
         "title": "2025 Full Stack Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117387,7 +117387,7 @@
         "company_name": "Blue Yonder",
         "id": "5a603dd2-9b2c-4b1e-a41f-b4cce06f5b66",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],

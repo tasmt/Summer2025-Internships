@@ -90060,7 +90060,7 @@
         "company_name": "Puffco",
         "id": "248fab31-97ec-412b-809f-2c9e3e84654f",
         "title": "Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118672,7 +118672,7 @@
         "company_name": "Snowflake",
         "id": "a4abfe75-7674-48ac-b9c3-83a42fc997f2",
         "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118729,7 +118729,7 @@
         "company_name": "Snowflake",
         "id": "3fe95a96-6151-4a3f-bc02-d47cf818e062",
         "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118862,7 +118862,7 @@
         "company_name": "Snowflake",
         "id": "6e540e89-80e8-4631-85e1-fa356073996d",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118881,7 +118881,7 @@
         "company_name": "Snowflake",
         "id": "4782f900-0029-49e5-87be-3dfa74b4b2ee",
         "title": "Software Engineer Intern - Core Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118919,7 +118919,7 @@
         "company_name": "Snowflake",
         "id": "1851ddf9-a6b2-47f5-9a72-87b628afc7fc",
         "title": "Software Engineer Intern - Core Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

@@ -120122,5 +120122,24 @@
         "date_posted": 1730265220,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730265358,
+        "url": "https://careers.siriusxm.com/careers/jobs/16198",
+        "company_name": "SiriusXM",
+        "title": "Summer Intern, Software Engineering",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "1f89aaa6-6de7-4e68-86d9-a4f9e30f83d1",
+        "date_posted": 1730265358,
+        "company_url": "",
+        "is_visible": true
     }
 ]

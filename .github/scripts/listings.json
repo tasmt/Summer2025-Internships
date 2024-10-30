@@ -98908,7 +98908,7 @@
         "company_name": "Symbotic",
         "id": "f0322943-ec96-4ae5-975d-d16889067179",
         "title": "Intern \u2013 Front End Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -116086,7 +116086,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "7a883753-023d-44cc-85be-11f348343145",
         "title": "Apprentice - Master Data Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -116124,7 +116124,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "4329a78f-ba29-42bd-ba71-b92ac96fdb7c",
         "title": "Apprentice-Back End Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -116278,7 +116278,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "cddc612c-bbcb-45fe-9ed2-0f28860ad95c",
         "title": "Apprentice - Software Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -119641,7 +119641,7 @@
         "company_name": "Brunswick",
         "id": "6d0bbab6-dd81-417c-99a8-a1464f233790",
         "title": "Application Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

@@ -119131,7 +119131,7 @@
         "company_name": "Medline",
         "id": "3bde79a3-efe0-4b92-82db-a01df76fd7d4",
         "title": "Business Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119150,7 +119150,7 @@
         "company_name": "JM Family",
         "id": "2c684db1-5d49-4659-b5cd-670330f419d2",
         "title": "Intern \u2013 Predictive Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"

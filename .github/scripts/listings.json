@@ -96676,7 +96676,7 @@
         "company_name": "Red Hat",
         "id": "8cae4931-3476-4872-be96-725d20970d9f",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103426,7 +103426,7 @@
         "company_name": "Red Hat",
         "id": "3243bf9f-a377-4ce1-8d0a-9bfbaf2beebd",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116435,7 +116435,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5296ebf0-036f-493f-a9c2-8aba237631bf",
         "title": "Disney Consumer Products Assistant Merchandiser Pin Trading Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],

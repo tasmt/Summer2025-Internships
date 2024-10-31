@@ -112777,7 +112777,7 @@
         "company_name": "Visa",
         "id": "ca49b9fd-222c-4397-af45-d2f2ae31a75d",
         "title": "Data Storage Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112796,7 +112796,7 @@
         "company_name": "Visa",
         "id": "fa3c1a59-5912-43fb-b1aa-a34431f95897",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -117266,7 +117266,7 @@
         "company_name": "AVEVA",
         "id": "fd111ff5-5c04-450d-8e69-6103691a4f94",
         "title": "Services and Practices Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"

@@ -120721,5 +120721,25 @@
         "company_url": "https://simplify.jobs/c/63ed32ad-4f6b-4bd2-bce7-58ea7a9415ad",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730437529,
+        "url": "https://careers.ibm.com/job/21044573/software-developer-intern-research-triangle-park-nc/",
+        "company_name": "IBM",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Research Triangle Park, NC",
+            "Poughkeepsie, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "95a65181-759d-4b1e-a603-50f664ee4040",
+        "date_posted": 1730437529,
+        "company_url": "",
+        "is_visible": true
     }
 ]

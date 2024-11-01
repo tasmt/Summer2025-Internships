@@ -116221,7 +116221,7 @@
         "company_name": "Art of Problem Solving",
         "id": "21a11602-337c-466f-ac4a-fd72d2723d4c",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120593,7 +120593,7 @@
         "company_name": "Point72",
         "id": "3505a4e7-4298-4a6f-a379-a97daae034d4",
         "title": "2025 Spring Internship - Data Engineer - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],

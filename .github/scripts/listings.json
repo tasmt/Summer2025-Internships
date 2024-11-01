@@ -120682,5 +120682,24 @@
         "date_posted": 1730426889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730426996,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460339EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2025-Intern",
+        "company_name": "Honeywell",
+        "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DereC4",
+        "id": "fd904eb3-e752-463b-8005-3fdf6060a526",
+        "date_posted": 1730426996,
+        "company_url": "",
+        "is_visible": true
     }
 ]

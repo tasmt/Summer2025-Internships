@@ -121267,5 +121267,24 @@
         "company_url": "https://simplify.jobs/c/Five-Rings",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730696865,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148758EXTERNALENUS/2025-Intern-Emerging-Technology-Analyst",
+        "company_name": "Adobe",
+        "title": "2025 Intern - Emerging Technology Analyst",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "a1a631d9-1dc1-4367-8a60-d72a44a7eb0b",
+        "date_posted": 1730696865,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -120766,7 +120766,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7a81f4a0-5f7d-4d14-9b7b-f9c4a4727735",
         "title": "Tax data Management & Innovation Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -121362,6 +121362,25 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kitware",
+        "id": "2f973a51-0a26-4fa2-a2c1-c5daafd1e640",
+        "title": "Computer Vision Software Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730752221,
+        "date_posted": 1730752221,
+        "url": "https://jobs.lever.co/kitware/c36a7fa6-8bd7-412c-ac6d-17cdaa3b0c56/apply",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
         "is_visible": true,
         "sponsorship": "Other"
     }

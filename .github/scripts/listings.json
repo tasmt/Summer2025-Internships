@@ -103130,7 +103130,7 @@
         "company_name": "Expedition Technology",
         "id": "9964dea0-ea9e-45f7-980f-1dc17b9b6cb6",
         "title": "Summer 2025 Internship in Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116376,7 +116376,7 @@
         "company_name": "Taboola",
         "id": "888cbed6-7e29-4135-9cb2-065cbcb63cae",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -119322,7 +119322,7 @@
         "company_name": "Booz Allen",
         "id": "767c7bf5-0d8d-4089-9029-f401a63e89c7",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -121478,6 +121478,47 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/One-Finance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "b4be635e-4412-4e08-baad-3b31a7550e7b",
+        "title": "2025 Intern Software",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730756148,
+        "date_posted": 1730756148,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2025-Intern-Software_R10176247",
+        "locations": [
+            "Palmdale, CA",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "cbfd0e3d-90e3-468b-86a6-5b390cbc7418",
+        "title": "2025 Software \u2013 Data Science Engineering Intern - Linthicum MD/Annapolis Junction MD",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730756145,
+        "date_posted": 1730756145,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2025-Software---Data-Science-Engineering-Intern---Linthicum-MD-Annapolis-Junction-MD_R10176240",
+        "locations": [
+            "Halethorpe, MD",
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
         "is_visible": true,
         "sponsorship": "Other"
     }

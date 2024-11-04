@@ -93568,7 +93568,7 @@
         "company_name": "Plexus",
         "id": "8c5ec152-c856-471c-9e30-edabb29ffcdd",
         "title": "Intern \u2013 Manufacturing Systems Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115473,7 +115473,7 @@
         "company_name": "Allegion",
         "id": "7a2e0b29-5711-40e3-bb8a-a214cbbd0faf",
         "title": "Software Engineering Intern - Mobile",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -118976,7 +118976,7 @@
         "company_name": "Allegion",
         "id": "b94b84e5-ee02-4273-9c65-8b78a9648aa7",
         "title": "Systems Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],

@@ -119971,7 +119971,7 @@
         "company_name": "Boomi",
         "id": "7c4481a5-50da-435b-9b5b-2b419c0fdf35",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120512,7 +120512,7 @@
         "company_name": "SEO (Sponsors for Educational Opportunity)",
         "id": "ebb6f892-0b59-4d36-a918-22d38889beb2",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -121429,7 +121429,7 @@
         "company_name": "Echo Global Logistics",
         "id": "cdf042b6-63f6-410b-a36d-8dec42556acf",
         "title": "Software Engineering Intern-Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

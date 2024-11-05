@@ -27478,7 +27478,7 @@
         "company_name": "Zoox",
         "id": "a5d62cf4-e345-4515-81d0-352e6a8a70ff",
         "title": "CLAMS HD Mapping Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -82194,7 +82194,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "60ff3195-b1a0-4648-afd4-f7326d732e8c",
         "title": "Machine Learning Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -89013,7 +89013,7 @@
         "company_name": "GPTZero",
         "id": "85d9aada-1016-4113-88e9-ad05a178e614",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91572,7 +91572,7 @@
         "company_name": "Jump Trading",
         "id": "aa3c9a39-b03d-4365-9290-d29f2effa2a4",
         "title": "Campus Quantitative Trader \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97531,7 +97531,7 @@
         "company_name": "Epic Games",
         "id": "b4b438a0-07ed-4fa1-bb56-9d148fa06e2f",
         "title": "Salesforce Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97588,7 +97588,7 @@
         "company_name": "Epic Games",
         "id": "06a7f603-2373-4623-829c-ad6406287f5e",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97723,7 +97723,7 @@
         "company_name": "Epic Games",
         "id": "173e760d-9ece-465f-bbe7-81067363a494",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122142,6 +122142,158 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Pharmacy",
+        "id": "e83017ff-627c-4902-8088-433d5182d5ad",
+        "title": "Medicare STARS Data Intelligence Corporate Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730172330,
+        "date_posted": 1730172330,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Moon-Township/Medicare-STARS--Data-Intelligence-Corporate-Intern---Summer-2025_R0409254",
+        "locations": [
+            "Coraopolis, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "f9325b64-1d68-4aab-bb24-91c1129351f0",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730146027,
+        "date_posted": 1730146027,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R47860-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Voltus",
+        "id": "e13be4d8-8e28-4ce6-aa6c-a533da3ae3ac",
+        "title": "Sales Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729799169,
+        "date_posted": 1729799169,
+        "url": "https://jobs.lever.co/voltus/abc773f3-edbc-4027-81fb-7668ef803e8d/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voltus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "05357c6c-05c0-4f1b-8662-54587c241317",
+        "title": "Developer Platforms Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729105798,
+        "date_posted": 1728602365,
+        "url": "https://jobs.lever.co/zoox/3021c042-c2e9-495f-8bbe-017792e519cf/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "9894f80d-a8f3-4856-a60b-be3db168eae7",
+        "title": "Python Backend Engineer Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727997410,
+        "date_posted": 1727997410,
+        "url": "https://jobs.lever.co/zoox/f2c64e56-fb45-46e9-811d-bc0d9dec9929/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "159fd57c-b44f-460e-8d4f-8853db96ea7c",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727219901,
+        "date_posted": 1727219901,
+        "url": "https://epicgames.com/careers/jobs/5332298004?gh_jid=5332298004",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orderly Network",
+        "id": "baf7c694-d0c3-4ff0-b321-3221c070c5a4",
+        "title": "Blockchain Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1722262368,
+        "date_posted": 1719616017,
+        "url": "https://job-boards.greenhouse.io/orderlynetwork/jobs/5961939003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OrderlyNetwork",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "304e7296-a4d5-4940-91d8-26234b8a4f31",
+        "title": "Wireless Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193034,
+        "date_posted": 1729193034,
+        "url": "https://www.skydio.com/jobs/6220790003?gh_jid=6220790003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
     }

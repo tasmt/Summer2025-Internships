@@ -100147,7 +100147,7 @@
         "company_name": "Super",
         "id": "3eb69fb1-0cdf-449b-9ab6-bf77a245906e",
         "title": "Software Engineering Intern - Infrastructure/Devops - Remote - Waterloo Winter 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -100744,7 +100744,7 @@
         "company_name": "Span",
         "id": "8729238e-cc23-4573-97ea-9e07afd16a74",
         "title": "R&D Infrastructure Software Engineering Co-op January-June 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -122565,6 +122565,25 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "de1cec19-9e9f-43d0-bfda-38d8da35baac",
+        "title": "Calibration \u2013 And Mapping Internship/Co-op - Localization",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729034326,
+        "date_posted": 1729034326,
+        "url": "https://jobs.lever.co/zoox/a0300739-a926-4020-a946-82eb03e209fa/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
     }

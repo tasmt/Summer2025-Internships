@@ -121757,5 +121757,43 @@
         "company_url": "https://simplify.jobs/c/DriveWealth",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "546cf27a-555f-4038-877b-404036efc84c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730766009,
+        "date_posted": 1730766009,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00147547-1",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Major League Baseball",
+        "id": "4859eb19-7f86-48dd-8ade-e1948ffe74b7",
+        "title": "2025 Summer Intern - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765722,
+        "date_posted": 1730765722,
+        "url": "https://www.mlb.com/careers/opportunities?gh_jid=6367670",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

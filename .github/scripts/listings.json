@@ -122337,5 +122337,24 @@
         "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730783087,
+        "url": "https://www.coinbase.com/en-ca/careers/positions/6306332",
+        "company_name": "Coinbase",
+        "title": "Security Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "9c74d712-0181-425a-87a8-c713393dc816",
+        "date_posted": 1730783087,
+        "company_url": "",
+        "is_visible": true
     }
 ]

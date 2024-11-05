@@ -121521,5 +121521,144 @@
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "1e7c4ea7-273e-4827-8f3d-1b6ce71e9e4a",
+        "title": "2025 US Summer Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765504,
+        "date_posted": 1730765504,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Irvine---Blizzard---Blizzard-Way/XMLNAME-2025-US-Summer-Internship---Software-Engineering_R023721",
+        "locations": [
+            "Santa Monica, CA",
+            "Austin, TX",
+            "Canoga Park, LA",
+            "Irvine, CA",
+            "Sherman Oaks, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "14878e49-628b-4737-840d-e30871af4b1a",
+        "title": "2025 US Summer Internship - Game Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765497,
+        "date_posted": 1730765497,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Santa-Monica/XMLNAME-2025-US-Summer-Internship---Game-Engineering_R023720-1",
+        "locations": [
+            "Boston, MA",
+            "Santa Monica, CA",
+            "Austin, TX",
+            "Canoga Park, LA",
+            "San Mateo, CA",
+            "Irvine, CA",
+            "Middleton, WI",
+            "Albany, NY",
+            "Carlsbad, CA",
+            "Culver City, CA",
+            "Novato, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "ca78744d-b864-4d43-bd85-43f203ea11d1",
+        "title": "Mobile Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765493,
+        "date_posted": 1730765493,
+        "url": "https://www.skydio.com/jobs/6220730003?gh_jid=6220730003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "1a46bffa-7246-4395-add4-e21204a0954c",
+        "title": "Data Analytics & Science Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1730765490,
+        "date_posted": 1730765490,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Irvine---Blizzard---Blizzard-Way/Data-Analytics---Science-Internship_R024240-1",
+        "locations": [
+            "Santa Monica, CA",
+            "SF",
+            "Irvine, CA",
+            "Sherman Oaks, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "dfe4f173-b69a-44cc-900a-25e77b404cac",
+        "title": "Game Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1730765490,
+        "date_posted": 1730765490,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Santa-Monica/Game-Engineering-Internship_R024236-1",
+        "locations": [
+            "Santa Monica, CA",
+            "Canoga Park, LA",
+            "Irvine, CA",
+            "Middleton, WI",
+            "Carlsbad, CA",
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "c1a4d82f-061c-4d5f-ba30-ce788600a175",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1730765485,
+        "date_posted": 1730765485,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Woodland-Hills/Software-Engineering-Internship_R024238",
+        "locations": [
+            "Canoga Park, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

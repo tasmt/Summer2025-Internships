@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24425,7 +24425,7 @@
         "company_name": "Zoox",
         "id": "481c2ebb-a5c3-4b62-97ac-829cdc757dee",
         "title": "Prediction & Behavior ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96348,7 +96348,7 @@
         "company_name": "Epic Games",
         "id": "78f96ab1-e760-4c5b-b6cc-1210a101f0b4",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96581,7 +96581,7 @@
         "company_name": "Epic Games",
         "id": "0cb8053d-1100-4662-bedd-f32934086388",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96947,7 +96947,7 @@
         "company_name": "Epic Games",
         "id": "70948d2c-c10a-492e-a93d-ce5702e32178",
         "title": "Gameplay Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97666,7 +97666,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -100861,7 +100861,7 @@
         "company_name": "Epic Games",
         "id": "b654a1d8-5ca2-4f9d-9d2e-249e8ace9ab5",
         "title": "Gameplay Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110879,7 +110879,7 @@
         "company_name": "Applied Materials",
         "id": "d852e131-fe55-4b56-a054-9bf51fe1f480",
         "title": "2025 Spring AI ML Co-op - Part-time - Gloucester - MA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -114407,7 +114407,7 @@
         "company_name": "Adobe",
         "id": "031254e1-cde2-4763-980a-845699fdb8f2",
         "title": "2025 Intern - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -121793,6 +121793,27 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/MLB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "c9e3ac5d-be50-45eb-9b7d-24c4902b8d20",
+        "title": "2025 US Summer Internship - Technical Art",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730773441,
+        "date_posted": 1730765486,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/Technical-Art-Internship_R024226",
+        "locations": [
+            "LA",
+            "Middleton, WI",
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
         "is_visible": true,
         "sponsorship": "Other"
     }

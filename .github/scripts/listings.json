@@ -35188,7 +35188,7 @@
         "company_name": "Zoox",
         "id": "98a80f60-eab1-454e-b94e-1a0934cdfee3",
         "title": "Firmware Engineer Internship/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -79708,7 +79708,7 @@
         "company_name": "Aurora University",
         "id": "5b81ec3f-6858-43e8-9b00-0cf85939bf84",
         "title": "Internship Interest Form",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86209,7 +86209,7 @@
         "company_name": "Fetch",
         "id": "bddf8ce2-320a-44cf-9642-0f4ffb062bc3",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98810,7 +98810,7 @@
         "company_name": "Epic Games",
         "id": "fc20b50e-c7c7-44e6-8b6c-2c8e5959900f",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122064,6 +122064,84 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trimble",
+        "id": "63328f8e-37de-4f6c-80ff-c5bd8c930e13",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730318602,
+        "date_posted": 1730318602,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Product-Engineer-Intern_R46895",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stably",
+        "id": "584532e1-49b3-411f-b531-5084fd97ccff",
+        "title": "Full Stack Engineer Co-Op Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258382,
+        "date_posted": 1730258382,
+        "url": "https://jobs.ashbyhq.com/stably.ai/24301699-b06c-4b44-9c44-91eb4890132e/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/12019147-0057-49e6-9342-abbe8f4fc287",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blockhouse",
+        "id": "60684000-6adc-4af4-94d5-6b6df4d4a025",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729627152,
+        "date_posted": 1729627152,
+        "url": "https://jobs.ashbyhq.com/blockhouse/99b3997f-65aa-4010-9c22-2d230f119daf/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "73dca6a8-e2c0-4954-8384-d2ba3ec27e89",
+        "title": "Intern \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1727291678,
+        "date_posted": 1727291678,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Data-Analytics_R4072",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
         "is_visible": true,
         "sponsorship": "Other"
     }

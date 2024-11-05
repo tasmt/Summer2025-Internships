@@ -102116,7 +102116,7 @@
         "company_name": "Lyft",
         "id": "1242c916-6926-4cd0-ae47-ae2a2e814344",
         "title": "Software Engineer Intern - Mobile Android - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110745,7 +110745,7 @@
         "company_name": "Zipline",
         "id": "ab1cba46-2a26-4f6f-96b3-34d21997ae51",
         "title": "Firmware/ Embedded Engineering Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -121621,7 +121621,7 @@
         "company_name": "Activision-Blizzard",
         "id": "dfe4f173-b69a-44cc-900a-25e77b404cac",
         "title": "Game Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -121646,7 +121646,7 @@
         "company_name": "Activision-Blizzard",
         "id": "c1a4d82f-061c-4d5f-ba30-ce788600a175",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"

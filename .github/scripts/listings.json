@@ -97005,7 +97005,7 @@
         "company_name": "Epic Games",
         "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
         "title": "Tools Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117037,7 +117037,7 @@
         "company_name": "FHLBank Chicago",
         "id": "ee9cc87b-3f83-4673-aef9-6b8a9ea9ca04",
         "title": "Summer Internship - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -118089,7 +118089,7 @@
         "company_name": "Symbotic",
         "id": "2eb41bd8-cfbd-4ca7-9b46-a59d57f24db8",
         "title": "Intern \u2013 Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -118110,7 +118110,7 @@
         "company_name": "FHLBank Chicago",
         "id": "1e1558d1-4a1d-43b6-b00a-b14c1442daea",
         "title": "Summer Internship - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -118404,7 +118404,7 @@
         "company_name": "FHLBank Chicago",
         "id": "95c56a23-53b1-4236-be9c-f875f6aa0322",
         "title": "Summer Internship - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -119838,7 +119838,7 @@
         "company_name": "The Trade Desk",
         "id": "5a168492-6d14-4500-a80e-61f9703e3d31",
         "title": "2025 Summer Intern - Data Science - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -122603,6 +122603,25 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Suno",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "b675f8d5-6794-4d9a-b062-88a052fe465a",
+        "title": "SSD Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728745441,
+        "date_posted": 1728745441,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000020050935",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
         "is_visible": true,
         "sponsorship": "Other"
     }

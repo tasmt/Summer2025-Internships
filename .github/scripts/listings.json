@@ -91706,7 +91706,7 @@
         "company_name": "Neuralink",
         "id": "0b651fbf-acad-4f2d-8006-98119aaffc93",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91725,7 +91725,7 @@
         "company_name": "Neuralink",
         "id": "ae08c445-487d-48cb-8271-cd7838993757",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122294,6 +122294,27 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "2e21e9cc-baa9-4b38-8ffd-75904b74f12a",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729725526,
+        "date_posted": 1729725526,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7594277002",
+        "locations": [
+            "London, UK",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other"
     }

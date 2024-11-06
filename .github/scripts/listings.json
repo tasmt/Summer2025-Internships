@@ -85729,7 +85729,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "46169ce8-1f91-4f15-bac4-a1ca48239e86",
         "title": "2025 Summer Internship - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -123102,5 +123102,24 @@
         "date_posted": 1730906296,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "1b39c95a-2f88-4c27-8e4b-f835005dd297",
+        "title": "Python Software Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730909700,
+        "date_posted": 1730909700,
+        "url": "https://careers.formlabs.com/job/6236789/apply/?gh_jid=6236789",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

@@ -122746,7 +122746,7 @@
         "company_name": "Aurora Innovation",
         "id": "92b3816c-c62b-4a5d-befe-be83555c9f46",
         "title": "Software Engineering Intern - Autonomy Long Tail",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -122765,7 +122765,7 @@
         "company_name": "Aurora Innovation",
         "id": "5582dcb7-7ef3-4280-a5d0-c538c5c91a14",
         "title": "Software Engineering Intern - Behavior Data Engine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

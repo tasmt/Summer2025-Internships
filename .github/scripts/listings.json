@@ -123024,5 +123024,26 @@
         "date_posted": 1730870268,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730870320,
+        "url": "https://app.ripplematch.com/v2/public/job/fc94df68/details",
+        "company_name": "eBay",
+        "title": "Data Science - Analytics Intern",
+        "locations": [
+            "New York, NY",
+            "Bellevue, WA",
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "0906a43f-7571-4c3a-8fa8-5a5c78a56a7b",
+        "date_posted": 1730870320,
+        "company_url": "",
+        "is_visible": true
     }
 ]

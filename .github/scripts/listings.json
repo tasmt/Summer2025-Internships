@@ -123004,5 +123004,25 @@
         "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730870268,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/265094",
+        "company_name": "Oracle",
+        "title": "OCI Software Development Intern - OVIP",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "fd527403-1161-457a-b7fb-2a37fea169cb",
+        "date_posted": 1730870268,
+        "company_url": "",
+        "is_visible": true
     }
 ]

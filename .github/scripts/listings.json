@@ -98714,7 +98714,7 @@
         "company_name": "CACI",
         "id": "28902964-2b71-4a1c-9835-1c5fef3dd312",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121370,7 +121370,7 @@
         "company_name": "Kitware",
         "id": "2f973a51-0a26-4fa2-a2c1-c5daafd1e640",
         "title": "Computer Vision Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

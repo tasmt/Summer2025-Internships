@@ -40983,7 +40983,7 @@
         "company_name": "The Boring Company",
         "id": "2e8c00e9-5ee3-4097-8369-aede649d478a",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48723,7 +48723,7 @@
         "company_name": "The Boring Company",
         "id": "bac46378-921d-431e-a43a-5ad195a874a0",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -95866,7 +95866,7 @@
         "company_name": "Alcon",
         "id": "2b140cac-74b8-42de-8d7e-9b8e67a8df74",
         "title": "2025 R&D Summer Intern - Track 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103645,7 +103645,7 @@
         "company_name": "F5",
         "id": "aa8948a2-d072-4ff2-84b8-84f6424421ab",
         "title": "Software Engineer Intern - San Jose",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103794,7 +103794,7 @@
         "company_name": "F5",
         "id": "21f6d894-76a9-426f-b6d7-3f3b28ec3c4d",
         "title": "Software Engineer Intern - Seattle",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"

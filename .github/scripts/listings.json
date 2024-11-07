@@ -123378,5 +123378,24 @@
         "company_url": "https://simplify.jobs/c/GitHub",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gesture",
+        "id": "953a7684-f58f-4416-b48b-0e5120e21ec0",
+        "title": "Data Science Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730938241,
+        "date_posted": 1730938241,
+        "url": "https://gesture-us-inc.breezy.hr/p/b48d6376f1d5/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/50f4de28-242d-4456-950c-e71d73d15169",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

@@ -123554,5 +123554,24 @@
         "date_posted": 1730956345,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730956547,
+        "url": "https://careers.nintendo.com/job-openings/listing/240000009X.ht",
+        "company_name": "Nintendo",
+        "title": "Intern - IT Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "99021fa2-de93-462b-ab90-0b4bfb961028",
+        "date_posted": 1730956547,
+        "company_url": "",
+        "is_visible": true
     }
 ]

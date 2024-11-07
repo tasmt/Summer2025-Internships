@@ -123436,5 +123436,24 @@
         "company_url": "https://simplify.jobs/c/d4f97dc1-3bd7-4767-8ce4-7becb28a3775",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730944079,
+        "url": "https://app.ripplematch.com/v2/public/job/0787b785/details?from_page=company_branded_page",
+        "company_name": "ABB",
+        "title": "Technical Support Specialist Intern",
+        "locations": [
+            "New Berlin, WI"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "mtlogs",
+        "id": "04f56bf5-ab73-4439-a027-60c135da1986",
+        "date_posted": 1730944079,
+        "company_url": "",
+        "is_visible": true
     }
 ]

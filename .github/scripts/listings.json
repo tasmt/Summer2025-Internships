@@ -93587,7 +93587,7 @@
         "company_name": "Plexus",
         "id": "205968f9-bd13-4e18-9cf1-7109ceb1b0e0",
         "title": "Intern \u2013 Product Engineer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96410,7 +96410,7 @@
         "company_name": "Moloco",
         "id": "d5ce9fec-c9dd-42ca-aec2-68af16e6d415",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -98636,7 +98636,7 @@
         "company_name": "Gilead Sciences",
         "id": "d368fa90-fb74-4fe4-8fe1-ec9b82af6576",
         "title": "Intern \u2013 Programming Data Analyst - Pharmacometrics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -108712,7 +108712,7 @@
         "company_name": "Visa",
         "id": "eb852221-cc47-48c1-943d-032ea58572ba",
         "title": "Consulting & Analytics Intern - Managed Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -113944,7 +113944,7 @@
         "company_name": "Adobe",
         "id": "607f03ba-517a-4a92-9e68-ee360e0a3d65",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",

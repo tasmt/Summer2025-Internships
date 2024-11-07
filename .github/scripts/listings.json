@@ -123455,5 +123455,25 @@
         "date_posted": 1730944079,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1730944099,
+        "url": "https://app.ripplematch.com/v2/public/job/bedfc45d/details?from_page=company_branded_page",
+        "company_name": "ABB",
+        "title": "IT Intern - Spring & Summer 2025",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "terms": [
+            "Summer 2025",
+            "Spring 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "mtlogs",
+        "id": "a44e4217-e064-45d1-88da-e41725fc5b16",
+        "date_posted": 1730944099,
+        "company_url": "",
+        "is_visible": true
     }
 ]

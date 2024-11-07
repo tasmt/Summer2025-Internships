@@ -120319,7 +120319,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8d9f2c10-c9f9-4238-866f-114b65b19d87",
         "title": "Summer 2025 Intern - Information Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121598,7 +121598,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1a46bffa-7246-4395-add4-e21204a0954c",
         "title": "Data Analytics & Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"

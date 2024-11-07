@@ -64544,7 +64544,7 @@
         "company_name": "Snackpass",
         "id": "0fcee3b4-d66b-4f8b-a3a5-f589a7d814e1",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -108712,7 +108712,7 @@
         "company_name": "Visa",
         "id": "eb852221-cc47-48c1-943d-032ea58572ba",
         "title": "Consulting & Analytics Intern - Managed Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -109932,7 +109932,7 @@
         "company_name": "Snackpass",
         "id": "5a96a832-a1e6-44f0-9c98-ff93659d741f",
         "title": "Software Engineer \u2013 Intern - Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -121598,7 +121598,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1a46bffa-7246-4395-add4-e21204a0954c",
         "title": "Data Analytics & Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -123495,6 +123495,44 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "ac353472-3ffd-40b6-ad7c-16cf1e470a9b",
+        "title": "C++ Software Engineer Intern - Boulder - CO - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730952929,
+        "date_posted": 1730952929,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ow2OufwA?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Five Rings Capital",
+        "id": "6c6988bb-c028-49a7-9e03-888e579b3e82",
+        "title": "Summer Intern 2025 - Quantitative Trader",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730693800,
+        "date_posted": 1730693800,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4069542008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
         "is_visible": true,
         "sponsorship": "Other"
     }

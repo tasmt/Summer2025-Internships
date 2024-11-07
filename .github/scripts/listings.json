@@ -121429,7 +121429,7 @@
         "company_name": "Echo Global Logistics",
         "id": "cdf042b6-63f6-410b-a36d-8dec42556acf",
         "title": "Software Engineering Intern-Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -123777,6 +123777,44 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Chainguard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "fd746366-3d1d-4289-8967-044339fbcfca",
+        "title": "Software Development 2024 Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730996238,
+        "date_posted": 1730996238,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2024-Co-Op_R51330-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "0532979d-9528-4a6a-ab3a-123696447cb9",
+        "title": "Intern \u2013 Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730996200,
+        "date_posted": 1730996200,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Data-Analyst_24WD83293-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other"
     }

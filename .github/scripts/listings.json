@@ -123836,5 +123836,27 @@
         "date_posted": 1731001414,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731001451,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Federal-Systems-Engineering-Intern--2025-Summer-Internship-_R51031-1?source=APPLICANT_SOURCE-6-250",
+        "company_name": "Motorola",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Linthicum, MD",
+            "Virginia, US",
+            "Washington DC, US",
+            "Maryland, US"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "597eabf8-8761-4a3c-a174-9018a5d3cf32",
+        "date_posted": 1731001451,
+        "company_url": "",
+        "is_visible": true
     }
 ]

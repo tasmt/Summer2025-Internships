@@ -123817,5 +123817,24 @@
         "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731001414,
+        "url": "https://app.ripplematch.com/v2/public/job/2d0802b2/details?from_page=company_branded_page",
+        "company_name": "eBay",
+        "title": "Software Engineer Intern - Mobile (Canada)",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "cceb0562-4b8d-4355-8e23-d6248610458b",
+        "date_posted": 1731001414,
+        "company_url": "",
+        "is_visible": true
     }
 ]

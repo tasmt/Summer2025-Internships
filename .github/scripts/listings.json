@@ -123858,5 +123858,24 @@
         "date_posted": 1731001451,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731001554,
+        "url": "https://app.ripplematch.com/v2/public/job/32beb203/details?from_page=company_branded_page",
+        "company_name": "eBay",
+        "title": "Software Engineer Intern - (Canada)",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "da0e6e07-58b4-4288-96c1-99a299c3c11c",
+        "date_posted": 1731001554,
+        "company_url": "",
+        "is_visible": true
     }
 ]

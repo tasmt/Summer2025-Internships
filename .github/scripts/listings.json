@@ -105149,7 +105149,7 @@
         "company_name": "Immuta",
         "id": "e962efb5-a14d-4675-b2a2-325aa9111e57",
         "title": "Product Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113791,7 +113791,7 @@
         "company_name": "Adobe",
         "id": "73f0ede7-5a27-450e-a3bb-80f63755db42",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113834,7 +113834,7 @@
         "company_name": "Adobe",
         "id": "57933f43-8064-4207-aff2-419bf5914f24",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113856,7 +113856,7 @@
         "company_name": "Adobe",
         "id": "9f3e3574-d7a8-49fc-b3fb-a0835e455998",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114053,7 +114053,7 @@
         "company_name": "Adobe",
         "id": "4f541141-5bf2-46cd-a705-1a1486194695",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114075,7 +114075,7 @@
         "company_name": "Adobe",
         "id": "1706bf75-ed0e-4b8c-9d30-fce7027c43c0",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -123414,6 +123414,26 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Charles River Associates (CRA)",
+        "id": "a7e5e251-ac28-41f2-8f4b-3810bc846212",
+        "title": "2026 Bachelor's/Master's graduates \u2013 Data Analytics Consulting Analyst/Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730925284,
+        "date_posted": 1730925284,
+        "url": "https://boards.greenhouse.io/charlesriverassociates/jobs/6104226",
+        "locations": [
+            "Summit, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/d4f97dc1-3bd7-4767-8ce4-7becb28a3775",
         "is_visible": true,
         "sponsorship": "Other"
     }

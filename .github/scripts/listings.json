@@ -33695,7 +33695,7 @@
         "company_name": "Credit Karma",
         "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -116961,7 +116961,7 @@
         "company_name": "BCBST",
         "id": "b0c2250d-0b25-42fe-ad1d-5e6938459c29",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -121507,7 +121507,7 @@
         "company_name": "Northrop Grumman",
         "id": "cbfd0e3d-90e3-468b-86a6-5b390cbc7418",
         "title": "2025 Software \u2013 Data Science Engineering Intern - Linthicum MD/Annapolis Junction MD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123552,25 +123552,6 @@
         "source": "GaryZhous",
         "id": "cfbed511-b3c0-44d5-bb86-ed0e9ba8ecd7",
         "date_posted": 1730956345,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1730956547,
-        "url": "https://careers.nintendo.com/job-openings/listing/240000009X.ht",
-        "company_name": "Nintendo",
-        "title": "Intern - IT Software Engineer",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "99021fa2-de93-462b-ab90-0b4bfb961028",
-        "date_posted": 1730956547,
         "company_url": "",
         "is_visible": true
     }

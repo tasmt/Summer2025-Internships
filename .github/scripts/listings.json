@@ -35547,7 +35547,7 @@
         "company_name": "Virtu Financial",
         "id": "efc1de62-7798-4a50-847e-7d3c591fd2e9",
         "title": "Internship - Trading Operations Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -97511,7 +97511,7 @@
         "company_name": "Gilead Sciences",
         "id": "f4d6d44b-4dd6-4d32-a0be-aa91107e1383",
         "title": "Intern \u2013 IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -109201,7 +109201,7 @@
         "company_name": "Rivian",
         "id": "76f0d6c2-9929-435d-ad5d-2d27fb914638",
         "title": "Data Science \u2013 & Analytics Internship - Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113966,7 +113966,7 @@
         "company_name": "Adobe",
         "id": "d5047f91-4499-4356-a239-36c0685dbac5",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113988,7 +113988,7 @@
         "company_name": "Adobe",
         "id": "bcf33821-1ee2-4863-81d0-26ea526f3cf1",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -121704,7 +121704,7 @@
         "company_name": "DriveWealth",
         "id": "38091c26-f8d3-4d12-a0bb-4cbced0415ee",
         "title": "Summer 2025 Intern - Core Trade",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123475,5 +123475,27 @@
         "date_posted": 1730944099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "a5e3a711-fcd6-47eb-80ca-c3e4fccadea7",
+        "title": "2025 Intern - Finance Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729107585,
+        "date_posted": 1729107585,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-Intern---Finance-Data-Scientist_R148742",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

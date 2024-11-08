@@ -97005,7 +97005,7 @@
         "company_name": "Epic Games",
         "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100319,7 +100319,7 @@
         "company_name": "STR",
         "id": "5944d78c-05da-4846-a771-22e2e7c4f940",
         "title": "Undergraduate Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -107058,7 +107058,7 @@
         "company_name": "Expedia",
         "id": "3bda117c-81ad-4363-aff3-140fc8b76dd0",
         "title": "Software Development Engineering Intern - 2025 - Seattle - Austin - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -112087,7 +112087,7 @@
         "company_name": "Force Factor",
         "id": "12a97ad0-ada3-4b08-b286-e0ab0b7e12cc",
         "title": "Summer 2025 AI Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120048,7 +120048,7 @@
         "company_name": "GCM Grosvenor",
         "id": "811e9286-5786-4274-8cd8-49548fc11fd9",
         "title": "2025 Software Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -122936,7 +122936,7 @@
         "company_name": "Story Protocol",
         "id": "45e36401-4fc1-4cf9-9b08-acfb4138ae42",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124017,7 +124017,7 @@
         "company_name": "Trimble",
         "id": "fcce72c1-2359-4ee6-8b71-033ead486117",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124376,6 +124376,25 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "233855ba-7f7b-4e33-bb03-06c1ffbbbacb",
+        "title": "2025 Launch Program: Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731096865,
+        "date_posted": 1731096865,
+        "url": "https://www.redventures.com/careers/positions/open?gh_jid=6356231",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
         "is_visible": true,
         "sponsorship": "Other"
     }

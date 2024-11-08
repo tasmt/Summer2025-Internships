@@ -3459,7 +3459,7 @@
         "company_name": "Bodo.ai",
         "id": "e3616907-a445-4710-b6df-3cbed409f178",
         "title": "Software Engineer Intern - Cloud Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89520,7 +89520,7 @@
         "company_name": "Pison",
         "id": "1585093a-69dd-4004-97e1-ad05820646ac",
         "title": "Data Collection Fall Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -98066,7 +98066,7 @@
         "company_name": "Lyft",
         "id": "6a1f18c7-a96d-4d28-abbc-37e66769a113",
         "title": "Software Engineer Intern - Backend - Toronto - Canada - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117897,7 +117897,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8fa12f03-221b-48a4-ae79-e4716f5231a0",
         "title": "Summer 2025 Intern-Data Science and Business Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118227,7 +118227,7 @@
         "company_name": "Analog Devices",
         "id": "feb56629-13d7-4b8d-8c54-0c162d399e7f",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120787,7 +120787,7 @@
         "company_name": "Associated Bank",
         "id": "3f251f30-6d87-4fab-b0cc-6fbece6aef17",
         "title": "Corporate Intern - Artificial Intelligence - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124395,6 +124395,44 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "98fda44f-b0d4-46ed-bf92-43b5ea94aa66",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731097387,
+        "date_posted": 1731097387,
+        "url": "https://www.skydio.com/jobs/6220441003?gh_jid=6220441003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "9ee2ce99-4903-480b-9140-2e904116afab",
+        "title": "Spring 2025: Global Privacy & Governance Co-op - January through June",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1731097162,
+        "date_posted": 1731097162,
+        "url": "https://www.sharkninja.com/careers/?gh_jid=4417471006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
         "is_visible": true,
         "sponsorship": "Other"
     }

@@ -94432,7 +94432,7 @@
         "company_name": "Squarepoint Capital",
         "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
         "title": "Intern Software Developer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117523,7 +117523,7 @@
         "company_name": "Sanofi",
         "id": "7f8b98aa-aba8-43e6-b158-780ada4c7bdc",
         "title": "Data Science and Digital Transformation \u2013 Spring 2025 Co-op - Dsd - Mechanistic Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -121723,7 +121723,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "886bd6bb-f53a-484a-a7cd-42b36046339c",
         "title": "Game Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",

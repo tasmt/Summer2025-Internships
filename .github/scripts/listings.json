@@ -102135,7 +102135,7 @@
         "company_name": "Lyft",
         "id": "74b41ee5-101d-42ff-8fa2-8fb1bd478223",
         "title": "Software Engineering Intern - Backend - Montreal - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109856,7 +109856,7 @@
         "company_name": "Marvell",
         "id": "2cea654a-969f-4142-9a74-070744c777a2",
         "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -115987,7 +115987,7 @@
         "company_name": "Jellyfish",
         "id": "8a18d51c-8f60-4dd5-b818-8f61de4591c4",
         "title": "Data Science Co-op - July 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -119781,7 +119781,7 @@
         "company_name": "The Trade Desk",
         "id": "0832234f-fe1f-43c1-bb0e-84dc6a7341de",
         "title": "2025 North America Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124144,6 +124144,25 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/1159ff04-5c95-4f2c-aa33-185e11b5cabd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blizzard Entertainment",
+        "id": "9e507f04-ad49-4a59-80d9-10308570325c",
+        "title": "2025 US Summer Internship - AI Localization",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731032239,
+        "date_posted": 1730766344,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Localization-Production-Internship_R024248",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
         "is_visible": true,
         "sponsorship": "Other"
     }

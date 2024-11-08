@@ -89520,7 +89520,7 @@
         "company_name": "Pison",
         "id": "1585093a-69dd-4004-97e1-ad05820646ac",
         "title": "Data Collection Fall Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -102135,7 +102135,7 @@
         "company_name": "Lyft",
         "id": "74b41ee5-101d-42ff-8fa2-8fb1bd478223",
         "title": "Software Engineering Intern - Backend - Montreal - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -119781,7 +119781,7 @@
         "company_name": "The Trade Desk",
         "id": "0832234f-fe1f-43c1-bb0e-84dc6a7341de",
         "title": "2025 North America Data Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -121723,7 +121723,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "886bd6bb-f53a-484a-a7cd-42b36046339c",
         "title": "Game Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",

@@ -124226,5 +124226,24 @@
         "date_posted": 1731043338,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731043419,
+        "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Agile-Software-Engineer-Intern/19796",
+        "company_name": "Jacobs",
+        "title": "Agile Software Engineer Intern",
+        "locations": [
+            "Hudson, NH"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "7cbb21b3-f680-40cc-90a4-2805231f57bd",
+        "date_posted": 1731043419,
+        "company_url": "",
+        "is_visible": true
     }
 ]

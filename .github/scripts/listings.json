@@ -98066,7 +98066,7 @@
         "company_name": "Lyft",
         "id": "6a1f18c7-a96d-4d28-abbc-37e66769a113",
         "title": "Software Engineer Intern - Backend - Toronto - Canada - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124017,7 +124017,7 @@
         "company_name": "Trimble",
         "id": "fcce72c1-2359-4ee6-8b71-033ead486117",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

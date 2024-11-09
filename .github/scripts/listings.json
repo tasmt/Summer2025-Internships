@@ -3459,7 +3459,7 @@
         "company_name": "Bodo.ai",
         "id": "e3616907-a445-4710-b6df-3cbed409f178",
         "title": "Software Engineer Intern - Cloud Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -97005,7 +97005,7 @@
         "company_name": "Epic Games",
         "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
         "title": "Tools Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -100784,7 +100784,7 @@
         "company_name": "Allegion",
         "id": "a16a92b9-a709-41c9-929c-4f08e9b4bc4a",
         "title": "Software Engineering Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -106407,7 +106407,7 @@
         "company_name": "Altruist",
         "id": "796a3c98-4ec5-4de6-95b5-c17cd222159b",
         "title": "Quantitative Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107058,7 +107058,7 @@
         "company_name": "Expedia",
         "id": "3bda117c-81ad-4363-aff3-140fc8b76dd0",
         "title": "Software Development Engineering Intern - 2025 - Seattle - Austin - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -112087,7 +112087,7 @@
         "company_name": "Force Factor",
         "id": "12a97ad0-ada3-4b08-b286-e0ab0b7e12cc",
         "title": "Summer 2025 AI Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -118227,7 +118227,7 @@
         "company_name": "Analog Devices",
         "id": "feb56629-13d7-4b8d-8c54-0c162d399e7f",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -120048,7 +120048,7 @@
         "company_name": "GCM Grosvenor",
         "id": "811e9286-5786-4274-8cd8-49548fc11fd9",
         "title": "2025 Software Engineering Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122936,7 +122936,7 @@
         "company_name": "Story Protocol",
         "id": "45e36401-4fc1-4cf9-9b08-acfb4138ae42",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122955,7 +122955,7 @@
         "company_name": "Anduril",
         "id": "2aa5c89a-cbfb-4849-8b15-6fd632ec93eb",
         "title": "Webapps Developer Intern - Ew",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],

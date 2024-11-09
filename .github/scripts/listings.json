@@ -108883,7 +108883,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731168063,
+        "date_updated": 1727670397,
         "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Ithaca---New-York---USA/IT-Co-op-Intern_R2024-3066",
         "company_name": "BorgWarner",
         "title": "IT Co-op/Intern",
@@ -108893,8 +108893,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Other",
-        "active": false,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
         "source": "GaryZhous",
         "id": "fc754c0e-2358-4394-a553-ad4b83578eed",
         "date_posted": 1727670397,
@@ -108925,7 +108925,7 @@
         "company_name": "Expedia",
         "id": "e44b9c72-f9f1-4add-8774-d4e5cc6dd17b",
         "title": "Software Development Engineering Intern - June 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122013,7 +122013,7 @@
         "company_name": " PrizePicks",
         "id": "cecf1219-b4f8-4257-8952-8f57a70f272a",
         "title": "Marketing Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

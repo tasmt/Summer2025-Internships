@@ -124836,5 +124836,24 @@
         "date_posted": 1731129798,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731129913,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12831",
+        "company_name": "Nokia",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "bb8f1d49-4922-42c7-b3e2-f9b1b0f4225a",
+        "date_posted": 1731129913,
+        "company_url": "",
+        "is_visible": true
     }
 ]

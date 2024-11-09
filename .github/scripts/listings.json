@@ -108864,7 +108864,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727670184,
+        "date_updated": 1731167966,
         "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4368079101?gh_jid=4368079101",
         "company_name": "NICE",
         "title": "DevOps Intern",
@@ -108874,8 +108874,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "d722492f-406b-4fd3-a6a6-7a86685c00ef",
         "date_posted": 1727670184,

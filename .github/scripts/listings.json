@@ -124817,5 +124817,24 @@
         "company_url": "https://simplify.jobs/c/Gusto",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731129798,
+        "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01736604EXTERNALENGLOBAL/Software-Engineering-Co-op-2025",
+        "company_name": "Collins Aerospace",
+        "title": "Software Engineering Co-op (2025)",
+        "locations": [
+            "Wilsonville, OR"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "bd5b6e72-9c1e-4040-bcfc-7d3b7dd9e391",
+        "date_posted": 1731129798,
+        "company_url": "",
+        "is_visible": true
     }
 ]

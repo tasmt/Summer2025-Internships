@@ -124568,5 +124568,62 @@
         "company_url": "https://simplify.jobs/c/HashiCorp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Twilio",
+        "id": "adc24b93-dcd2-4525-a5e5-860dd33069c4",
+        "title": "Software Engineer Intern - United States",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731111268,
+        "date_posted": 1731111268,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/6330375",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Truveta",
+        "id": "a4abee1c-e704-42b9-af99-6e04629cf35a",
+        "title": "Clinical Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111129,
+        "date_posted": 1731111129,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5374109004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "06eeecf1-15cd-44b1-b4e3-375f78b86f75",
+        "title": "System Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731110691,
+        "date_posted": 1731110691,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000025560886",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

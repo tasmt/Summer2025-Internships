@@ -110106,7 +110106,7 @@
         "company_name": "Amazon",
         "id": "f947af8c-32d5-41f7-ab82-b8d28b343671",
         "title": "Software Dev Engineer Intern - Embedded - Runtime - Storage - System & Performance - Annapurna ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116492,7 +116492,7 @@
         "company_name": "Plexus",
         "id": "5f885a05-5b8b-4380-954a-e06a6e52830f",
         "title": "Intern \u2013 Software Engineer - Fall 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],

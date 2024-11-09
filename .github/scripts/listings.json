@@ -98259,7 +98259,7 @@
         "company_name": "Santander",
         "id": "09895717-9451-49bc-837c-40d83f56e83e",
         "title": "Technology Intern - Chief Data Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -104254,7 +104254,7 @@
         "company_name": "Q2",
         "id": "cd913a03-70ed-4cd7-beee-68b9e7069ecb",
         "title": "Engineering/Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -116492,7 +116492,7 @@
         "company_name": "Plexus",
         "id": "5f885a05-5b8b-4380-954a-e06a6e52830f",
         "title": "Intern \u2013 Software Engineer - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],

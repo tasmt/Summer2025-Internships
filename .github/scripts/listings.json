@@ -117445,7 +117445,7 @@
         "company_name": "ibotta",
         "id": "1951c500-3e37-4e95-a8b4-fe45fbd9c7f3",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117523,7 +117523,7 @@
         "company_name": "Sanofi",
         "id": "7f8b98aa-aba8-43e6-b158-780ada4c7bdc",
         "title": "Data Science and Digital Transformation \u2013 Spring 2025 Co-op - Dsd - Mechanistic Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],

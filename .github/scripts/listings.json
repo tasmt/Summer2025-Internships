@@ -91610,7 +91610,7 @@
         "company_name": "Jump Trading",
         "id": "d44d2a3b-10ac-4215-a600-6530f5dfdab3",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99604,7 +99604,7 @@
         "company_name": "Gecko Robotics",
         "id": "336bb4f4-afac-46c4-ac03-d60f7850edc4",
         "title": "Embedded Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -100784,7 +100784,7 @@
         "company_name": "Allegion",
         "id": "a16a92b9-a709-41c9-929c-4f08e9b4bc4a",
         "title": "Software Engineering Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -111273,7 +111273,7 @@
         "company_name": "PlayStation Global",
         "id": "dbb97bda-5ce8-424d-b591-91418cbec5a0",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113050,7 +113050,7 @@
         "company_name": "Mach Industries",
         "id": "7a132c30-a474-4ae9-a695-c6050190d08a",
         "title": "Summer Intern 2025 - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114977,7 +114977,7 @@
         "company_name": "PlayStation Global",
         "id": "2c1e1d6b-f59f-4816-8688-a5955e68f9c9",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -121598,7 +121598,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1a46bffa-7246-4395-add4-e21204a0954c",
         "title": "Data Analytics & Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"

@@ -108845,7 +108845,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1727515395,
+        "date_updated": 1731224239,
         "url": "https://www.metacareers.com/jobs/995447835688062/",
         "company_name": "Meta",
         "title": "Meta University",
@@ -108855,8 +108855,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "LucasMTC",
         "id": "b7d7d369-d8df-4423-bc1c-a41109a5ad00",
         "date_posted": 1727515395,

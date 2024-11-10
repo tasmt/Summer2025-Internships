@@ -90276,7 +90276,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1722383729,
+        "date_updated": 1731223859,
         "url": "https://app.ripplematch.com/v2/public/job/70fb2330/details?from_page=tracking_link&tl=1edfe69a",
         "company_name": "Notion",
         "title": "Software Engineer Intern, Mobile (Summer 2025)",
@@ -90287,8 +90287,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "dhruvb26",
         "id": "df88ff39-8a23-40cb-817c-c99a45deb5e6",
         "date_posted": 1722383729,

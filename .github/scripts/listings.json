@@ -90659,7 +90659,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722634916,
+        "date_updated": 1731222491,
         "url": "https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2",
         "company_name": "Ventas",
         "title": "Intern, Software Engineering (Summer 2025)",
@@ -90669,8 +90669,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "haozed",
         "id": "58c80faf-9bc1-44a5-90b1-299034d3abf3",
         "date_posted": 1722634916,

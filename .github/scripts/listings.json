@@ -117758,7 +117758,7 @@
         "company_name": "JM Family",
         "id": "350fa01a-368a-4bfa-b458-b1576664b7c1",
         "title": "Intern \u2013 Portfolio Coordinator",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -120338,7 +120338,7 @@
         "company_name": "Pinterest",
         "id": "ecf55032-6f07-4aa4-953c-fe9c073813bb",
         "title": "IT Software Engineering Intern - USA",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -122991,7 +122991,7 @@
         "company_name": "Anduril",
         "id": "fbc09e4e-0f80-4d90-ac04-87fefaf47e1b",
         "title": "AI-Driven Hardware Health Monitoring Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -124688,7 +124688,7 @@
         "company_name": "Modernizing Medicine",
         "id": "91a6dff8-da57-4397-804a-8c0003532fb2",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

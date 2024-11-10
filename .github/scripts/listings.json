@@ -91409,7 +91409,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1723074693,
+        "date_updated": 1731222059,
         "url": "https://quantiqpartners.zohorecruit.com/forms/1965216ed406321a2f6e355156f0e94ea7405c37b4ef00a027ca731b06e9be8d",
         "company_name": "Quantiq Partners",
         "title": "Software Developer Intern",
@@ -91419,8 +91419,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "reddoy",
         "id": "bb25316f-1804-4786-9b68-5478b8d6e14f",
         "date_posted": 1723074693,

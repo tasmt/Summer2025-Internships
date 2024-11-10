@@ -92785,7 +92785,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -122051,7 +122051,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "cb147f07-7e35-469b-acc8-0facb8e89667",
         "title": "Quantitative Researcher \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

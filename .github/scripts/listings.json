@@ -94452,7 +94452,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -95189,7 +95189,7 @@
         "company_name": "Cerebras",
         "id": "8edd6a99-da28-4e28-b1f9-bfd31341c1b6",
         "title": "Machine Learning Software Engineer \u2013 Internship - PEY 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96907,7 +96907,7 @@
         "company_name": "Plexus",
         "id": "9e96c34b-c9e8-4d70-880a-a3ba400eee9f",
         "title": "Intern \u2013 Software Engineer - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -99643,7 +99643,7 @@
         "company_name": "Lucid Motors",
         "id": "cae0844f-611c-41a2-9742-cb8b21f2f6b4",
         "title": "Intern \u2013 Mobile Application Software Engineer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -101140,7 +101140,7 @@
         "company_name": "Crusoe",
         "id": "efafb530-0d2a-465d-84d6-573a2d85c576",
         "title": "University Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -120205,7 +120205,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e613e9f3-5546-4e44-8644-7ff997a28107",
         "title": "Apprentice - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -121936,7 +121936,7 @@
         "company_name": "Zoox",
         "id": "3231db1d-53fe-4670-bfda-b9e2471e6598",
         "title": "CLAMS HD Mapping Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

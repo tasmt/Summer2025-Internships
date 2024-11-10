@@ -110184,7 +110184,7 @@
         "company_name": "Rockwell Automation",
         "id": "2696336e-6d59-451f-9bca-cff6d046bf61",
         "title": "Co-op \u2013 Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -118938,7 +118938,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "517772c6-92a3-4355-aa49-6084226aa71d",
         "title": "Systems & Data Analytics Intern - US TV Production - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],

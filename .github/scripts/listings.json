@@ -90873,7 +90873,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1722973379,
+        "date_updated": 1731222219,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-2",
         "company_name": "Salesforce",
         "title": "Software Engineer Intern",
@@ -90891,7 +90891,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "omarmneimneh",
         "id": "ae867571-5668-412f-8bb8-ebc20c87cf3c",
         "date_posted": 1722973379,

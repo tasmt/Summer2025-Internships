@@ -47304,7 +47304,7 @@
         "company_name": "Keywords Studios",
         "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
         "title": "Research Intern - AI Start-up",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -90689,7 +90689,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "16392015-d8f0-4423-a2c2-24463cc0ebc7",
         "date_posted": 1722712102,
@@ -92785,7 +92785,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94452,7 +94452,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99047,7 +99047,7 @@
         "company_name": "Carter's Careers",
         "id": "028ca418-4914-44cd-97d5-a893f42e0f71",
         "title": "Marketing Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101140,7 +101140,7 @@
         "company_name": "Crusoe",
         "id": "efafb530-0d2a-465d-84d6-573a2d85c576",
         "title": "University Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -118938,7 +118938,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "517772c6-92a3-4355-aa49-6084226aa71d",
         "title": "Systems & Data Analytics Intern - US TV Production - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118957,7 +118957,7 @@
         "company_name": "Coinbase",
         "id": "eac6b5a2-71cc-4b3b-9512-f4c6cc60bd24",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120205,7 +120205,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e613e9f3-5546-4e44-8644-7ff997a28107",
         "title": "Apprentice - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -121917,7 +121917,7 @@
         "company_name": "Epic Games",
         "id": "fd9ac172-13e7-4871-a3f6-f8dbf244fd81",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -122051,7 +122051,7 @@
         "company_name": "Aquatic Capital Management",
         "id": "cb147f07-7e35-469b-acc8-0facb8e89667",
         "title": "Quantitative Researcher \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124688,7 +124688,7 @@
         "company_name": "Modernizing Medicine",
         "id": "91a6dff8-da57-4397-804a-8c0003532fb2",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

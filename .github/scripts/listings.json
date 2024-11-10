@@ -90689,7 +90689,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "16392015-d8f0-4423-a2c2-24463cc0ebc7",
         "date_posted": 1722712102,
@@ -118957,7 +118957,7 @@
         "company_name": "Coinbase",
         "id": "eac6b5a2-71cc-4b3b-9512-f4c6cc60bd24",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

@@ -89304,7 +89304,7 @@
         "company_name": "IXL Learning",
         "id": "8ca0c749-e89e-4d5e-b537-7d4c18f08e9c",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -117758,7 +117758,7 @@
         "company_name": "JM Family",
         "id": "350fa01a-368a-4bfa-b458-b1576664b7c1",
         "title": "Intern \u2013 Portfolio Coordinator",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118385,7 +118385,7 @@
         "company_name": "Analog Devices",
         "id": "aab29e11-4094-49e6-a664-ce8fabda7546",
         "title": "Algorithm Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

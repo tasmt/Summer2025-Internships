@@ -99047,7 +99047,7 @@
         "company_name": "Carter's Careers",
         "id": "028ca418-4914-44cd-97d5-a893f42e0f71",
         "title": "Marketing Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99104,7 +99104,7 @@
         "company_name": "Lumentum",
         "id": "c68c170f-e326-4d82-a9ce-0a7693c3a534",
         "title": "Software Automation Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -102310,7 +102310,7 @@
         "company_name": "Carter's Careers",
         "id": "dd7ac7bc-763e-4978-8919-b4c527d5225c",
         "title": "Full Stack Developer \u2013 Ecomm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -112372,7 +112372,7 @@
         "company_name": "EquipmentShare",
         "id": "803c4551-cd54-4bf6-af1f-1e4bfa5bc8f9",
         "title": "Intern: Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114096,7 +114096,7 @@
         "company_name": "Adobe",
         "id": "947d3319-8468-4372-abe1-3fc9b25f031d",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -124918,7 +124918,7 @@
         "company_name": "CVS Pharmacy",
         "id": "3a5419a9-7169-42f8-ab79-65739f7b7181",
         "title": "Data Analytics Engineering Graduate Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

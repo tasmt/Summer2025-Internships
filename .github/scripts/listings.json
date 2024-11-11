@@ -91572,7 +91572,7 @@
         "company_name": "Jump Trading",
         "id": "aa3c9a39-b03d-4365-9290-d29f2effa2a4",
         "title": "Campus Quantitative Trader \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106949,7 +106949,7 @@
         "company_name": "Uber",
         "id": "bfeb554b-0b29-4981-86d8-e43f5eebbefa",
         "title": "2025 Software Engineering Uberstar Internship - United States",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117839,7 +117839,7 @@
         "company_name": "JM Family",
         "id": "2bb40c84-63ab-4b6f-a380-c9822c7b716a",
         "title": "Intern \u2013 Developer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -124940,7 +124940,7 @@
         "company_name": "Motorola",
         "id": "f5c57622-31ff-4ea0-b1de-2fbb027e0834",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125016,7 +125016,7 @@
         "company_name": "Motorola",
         "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
         "title": "Product and Data Research Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125103,6 +125103,47 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stanley Black & Decker",
+        "id": "69a81dae-6e2d-4436-80f6-65030f03f34b",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731357855,
+        "date_posted": 1731357855,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Data-Analytics-Intern_REQ-1000033526",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/820cabdf-5e2f-4043-b27f-717af1703eef",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "ff4f1e03-bbe2-4cd7-8b27-4aea1af8a78d",
+        "title": "Intern \u2013 Software Developer - Graphics",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1731357364,
+        "date_posted": 1731357364,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Graphics-_24WD82768",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
         "is_visible": true,
         "sponsorship": "Other"
     }

@@ -97872,7 +97872,7 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1725598837,
+        "date_updated": 1731296706,
         "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4388985101?gh_src=f754f242teu",
         "company_name": "Veeam Software",
         "title": "Salesforce Engineer Intern",
@@ -97882,8 +97882,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "0088bb94-fe23-4f03-a890-c39d4192271b",
         "date_posted": 1725598837,

@@ -115553,7 +115553,7 @@
         "company_name": "Samsara",
         "id": "10f7a111-7a88-4ee3-be33-5b4a135d0b6a",
         "title": "Software Engineering Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025",
@@ -123325,7 +123325,7 @@
         "company_name": "AVEVA",
         "id": "57926598-67f2-463f-893e-43cf7f674ee9",
         "title": "Software Developer Intern - Drexel",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123344,7 +123344,7 @@
         "company_name": "Western Digital",
         "id": "131ec445-a74e-47ae-b27a-e2799a1334fa",
         "title": "RAMP Co-Op Read/Write Channel Firmware Engineer - Spring-Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"

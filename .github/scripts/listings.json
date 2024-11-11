@@ -120665,7 +120665,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1730426889,
+        "date_updated": 1731296954,
         "url": "https://recruiting2.ultipro.com/HER1001ACFIN/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=7080938d-3a7b-47ce-989d-0dd4994f0a8a&source=LinkedIn",
         "company_name": "Acuity",
         "title": "Programmer Intern",
@@ -120675,8 +120675,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "DereC4",
         "id": "af149392-f4a5-45ff-892a-968f6a5a7386",
         "date_posted": 1730426889,

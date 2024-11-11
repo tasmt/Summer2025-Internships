@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -106310,7 +106310,7 @@
         "company_name": "Motorola",
         "id": "148404ba-21d3-457c-bb26-d8dc1d797503",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106949,7 +106949,7 @@
         "company_name": "Uber",
         "id": "bfeb554b-0b29-4981-86d8-e43f5eebbefa",
         "title": "2025 Software Engineering Uberstar Internship - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113922,7 +113922,7 @@
         "company_name": "Adobe",
         "id": "9bd2cc70-b695-44d2-b82f-79f54232d2bc",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",

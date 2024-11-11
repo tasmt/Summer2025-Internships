@@ -114621,7 +114621,7 @@
         "company_name": "Vail Systems",
         "id": "60cb9fb6-f233-48e3-9bf9-18082f52d6b7",
         "title": "Data Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124384,7 +124384,7 @@
         "company_name": "Red Ventures",
         "id": "233855ba-7f7b-4e33-bb03-06c1ffbbbacb",
         "title": "2025 Launch Program: Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

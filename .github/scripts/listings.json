@@ -103565,7 +103565,7 @@
         "company_name": "Rockwell Automation",
         "id": "f211aba9-cef3-4f83-9ea1-da39bb74c595",
         "title": "Co-op \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -119265,7 +119265,7 @@
         "company_name": "Corelogic",
         "id": "374a2c4a-0133-47c2-af6a-223b1e536ef5",
         "title": "Intern \u2013 Database Administration",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -122727,7 +122727,7 @@
         "company_name": "Corelogic",
         "id": "097247a9-c8e8-4ff9-b07d-8b7bc541a10e",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

@@ -125010,5 +125010,24 @@
         "company_url": "https://simplify.jobs/c/Equipment-Share",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
+        "title": "Product and Data Research Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731341860,
+        "date_posted": 1731341860,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Product-and-Data-Research-Intern---Summer-2025_R50990",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

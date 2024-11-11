@@ -125048,5 +125048,24 @@
         "date_posted": 1731346582,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731346615,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/Software-Engineering-Intern_J000671929",
+        "company_name": "Aptiv",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Troy, MI"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "26e66096-065d-472a-8901-2d5d5b9c9dde",
+        "date_posted": 1731346615,
+        "company_url": "",
+        "is_visible": true
     }
 ]

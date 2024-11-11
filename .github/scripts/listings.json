@@ -96907,7 +96907,7 @@
         "company_name": "Plexus",
         "id": "9e96c34b-c9e8-4d70-880a-a3ba400eee9f",
         "title": "Intern \u2013 Software Engineer - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -119363,7 +119363,7 @@
         "company_name": "Astranis",
         "id": "f5b28466-0a16-442e-bf4a-619697c11ae0",
         "title": "Software Developer \u2013 Intern - Network/Payload Software - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],

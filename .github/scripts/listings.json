@@ -117132,7 +117132,7 @@
         "company_name": "MSD",
         "id": "0d8e6e7f-deaf-4f88-a1d0-b59a83785347",
         "title": "2025 University Recruiting \u2013 Global Supplier Management Group Procurement Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -121410,7 +121410,7 @@
         "company_name": "Autodesk",
         "id": "f66a7e9b-dd8d-4585-bc12-4a02193f3c39",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

@@ -119363,7 +119363,7 @@
         "company_name": "Astranis",
         "id": "f5b28466-0a16-442e-bf4a-619697c11ae0",
         "title": "Software Developer \u2013 Intern - Network/Payload Software - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -122974,7 +122974,7 @@
         "company_name": "Anduril",
         "id": "6ca68b3d-ef02-40c5-be9e-420321a5eac2",
         "title": "Perception Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

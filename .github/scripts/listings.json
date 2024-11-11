@@ -102310,7 +102310,7 @@
         "company_name": "Carter's Careers",
         "id": "dd7ac7bc-763e-4978-8919-b4c527d5225c",
         "title": "Full Stack Developer \u2013 Ecomm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -106310,7 +106310,7 @@
         "company_name": "Motorola",
         "id": "148404ba-21d3-457c-bb26-d8dc1d797503",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113922,7 +113922,7 @@
         "company_name": "Adobe",
         "id": "9bd2cc70-b695-44d2-b82f-79f54232d2bc",
         "title": "2025 Intern - Software Development Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114096,7 +114096,7 @@
         "company_name": "Adobe",
         "id": "947d3319-8468-4372-abe1-3fc9b25f031d",
         "title": "2025 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -124918,7 +124918,7 @@
         "company_name": "CVS Pharmacy",
         "id": "3a5419a9-7169-42f8-ab79-65739f7b7181",
         "title": "Data Analytics Engineering Graduate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125067,5 +125067,43 @@
         "date_posted": 1731346615,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "6ea3016f-0da8-4b1a-b6a9-2bcb129f6e2d",
+        "title": "Intern \u2013 Software Engineer - Dallas - TX",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1731356400,
+        "date_posted": 1731356400,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Software-Engineer--Dallas--TX-_REQ15617",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "58371f81-ab4a-4ecc-8e62-ebe6775a7e62",
+        "title": "Intern \u2013 Software Engineer - Austin - TX",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731356398,
+        "date_posted": 1731356398,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Austin-TX/Intern--Software-Engineer_REQ15733",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

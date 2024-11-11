@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47304,7 +47304,7 @@
         "company_name": "Keywords Studios",
         "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
         "title": "Research Intern - AI Start-up",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -108712,7 +108712,7 @@
         "company_name": "Visa",
         "id": "eb852221-cc47-48c1-943d-032ea58572ba",
         "title": "Consulting & Analytics Intern - Managed Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -110184,7 +110184,7 @@
         "company_name": "Rockwell Automation",
         "id": "2696336e-6d59-451f-9bca-cff6d046bf61",
         "title": "Co-op \u2013 Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -121917,7 +121917,7 @@
         "company_name": "Epic Games",
         "id": "fd9ac172-13e7-4871-a3f6-f8dbf244fd81",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -121936,7 +121936,7 @@
         "company_name": "Zoox",
         "id": "3231db1d-53fe-4670-bfda-b9e2471e6598",
         "title": "CLAMS HD Mapping Internship/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122974,7 +122974,7 @@
         "company_name": "Anduril",
         "id": "6ca68b3d-ef02-40c5-be9e-420321a5eac2",
         "title": "Perception Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

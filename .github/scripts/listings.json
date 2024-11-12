@@ -43956,7 +43956,7 @@
         "company_name": "Neuralink",
         "id": "f42b6aae-8434-41fa-97bf-f0f1a496395b",
         "title": "Surgery Operations Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -93492,7 +93492,7 @@
         "company_name": "Pocket Worlds",
         "id": "bb4551f2-3af7-407d-aa29-afb4743850a7",
         "title": "Software Development Residency",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -115077,7 +115077,7 @@
         "company_name": "PlayStation Global",
         "id": "f6fdd5a6-1161-480e-895b-18b9eab1ff2b",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",

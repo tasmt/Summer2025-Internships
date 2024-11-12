@@ -97531,7 +97531,7 @@
         "company_name": "Epic Games",
         "id": "b4b438a0-07ed-4fa1-bb56-9d148fa06e2f",
         "title": "Salesforce Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125624,6 +125624,27 @@
             "Bethesda, MD"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "2871d05e-f1d7-4608-a557-500503989181",
+        "title": "UIUC Research Park Intern - Embedded Software",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728933748,
+        "date_posted": 1728933748,
+        "url": "https://careers.rivian.com/jobs/19555?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }

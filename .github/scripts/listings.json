@@ -99585,7 +99585,7 @@
         "company_name": "Lucid Motors",
         "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
         "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99700,7 +99700,7 @@
         "company_name": "Lucid Motors",
         "id": "d19601ff-c81d-42c3-bf3d-cf64ae822fbc",
         "title": "Intern \u2013 Tooling Analyst - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113572,7 +113572,7 @@
         "company_name": "Solidigm",
         "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
         "title": "SSD Validation Development Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125364,7 +125364,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "a90e260f-0bc7-46b9-9657-e412f3cda920",
         "title": "Graduate Intern - Business & Data Analysis - Facility Operations - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],

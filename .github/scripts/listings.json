@@ -92300,7 +92300,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723694741,
+        "date_updated": 1731455165,
         "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11703",
         "company_name": "Macquarie",
         "title": "Technology Interns (Application Development & Solution Architecture and Engineering )",
@@ -92310,8 +92310,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "318e684b-9629-4fb1-b8dd-de5bd48f02c0",
         "date_posted": 1723694741,

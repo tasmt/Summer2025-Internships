@@ -475,7 +475,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Zebra Technologies | 2025 Summer Internship - Software Engineer, RFID 🛂 | Holtsville, NY | <a href="https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343621946480&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | UBS | 2025 Summer Internship Program - Technology 🛂 | New York, NY</br>Weehawken, NJ | <a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=305740&siteid=5131&partnerid=25008&PageType=JobDetails#jobDetails=305740_5131&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Siemens | Grid Software Internship: Software Developer 🛂 | Remote in USA</br>Minnetonka, MN | <a href="https://jobs.siemens.com/careers/job/563156120579876?hl=en&domain=siemens.com&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
-| Zebra Technologies | 2025 Summer Internship (US) - Software Engineering 🛂 | Lincolnshire, IL | <a href="https://zebra.eightfold.ai/careers?pid=343621712678&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **[MongoDB](https://simplify.jobs/c/MongoDB)** | Software Engineering, Product - Intern - 2025 | New York, NY | <a href="https://app.ripplematch.com/v2/public/job/09e1dc0b/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | Leica Biosystems | Software Engineering Intern | Vista, CA | <a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1271899EXTERNALENGLOBAL/Software-Engineering-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | Estée Lauder | Summer 2025 Intern, Information Technology A.I. | United States | <a href="https://jobs.elcompanies.com/estee-lauder-companies/jobs/2410822?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
@@ -1131,6 +1130,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | Tools Programmer Intern | Morrisville, NC | 🔒 | Sep 02 |
 | **[Duolingo](https://simplify.jobs/c/Duolingo)** | Software Engineer – Intern | Pittsburgh, PA | 🔒 | Sep 02 |
 | **[Zip](https://simplify.jobs/c/Zip)** | Software Engineer Intern - Summer 2025 | SF | 🔒 | Aug 30 |
+| Zebra Technologies | 2025 Summer Internship (US) - Software Engineering | Lincolnshire, IL | 🔒 | Aug 30 |
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | Gameplay Programmer Intern | London, UK | 🔒 | Aug 30 |
 | ↳ | Gameplay Programmer Intern | Morrisville, NC | 🔒 | Aug 30 |
 | **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Performance Engineer – Internship - PEY 2025 | Toronto, ON, Canada | 🔒 | Aug 30 |

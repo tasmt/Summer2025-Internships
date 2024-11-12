@@ -113126,7 +113126,7 @@
         "company_name": "Snyk",
         "id": "f90a6973-9818-4940-8e7b-9479505cf112",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125191,7 +125191,7 @@
         "company_name": "Intradiem",
         "id": "29fbdeca-bbfb-4a2b-adb0-9944374bdc57",
         "title": "Summer 2025 Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

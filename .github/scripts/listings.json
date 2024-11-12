@@ -88032,7 +88032,7 @@
         "company_name": "Kargo",
         "id": "8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
         "title": "Backend Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99700,7 +99700,7 @@
         "company_name": "Lucid Motors",
         "id": "d19601ff-c81d-42c3-bf3d-cf64ae822fbc",
         "title": "Intern \u2013 Tooling Analyst - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -112353,7 +112353,7 @@
         "company_name": "Verkada",
         "id": "51778e24-f875-4706-b4e7-161edf5e5646",
         "title": "IOS Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125185,5 +125185,24 @@
         "date_posted": 1731372153,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "29fbdeca-bbfb-4a2b-adb0-9944374bdc57",
+        "title": "Summer 2025 Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731356619,
+        "date_posted": 1731356619,
+        "url": "https://job-boards.greenhouse.io/intradiem/jobs/4409590006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

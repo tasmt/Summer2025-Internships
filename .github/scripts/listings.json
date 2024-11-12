@@ -95492,7 +95492,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1731455510,
+        "date_updated": 1731455819,
         "url": "https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343621946480",
         "company_name": "Zebra Technologies",
         "title": "2025 Summer Internship - Software Engineer, RFID",
@@ -95503,7 +95503,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "GaryZhous",
         "id": "bf40b0bf-e8d0-4dc1-999a-2fe9c0b81cbc",
         "date_posted": 1725130251,

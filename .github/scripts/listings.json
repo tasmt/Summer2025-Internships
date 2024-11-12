@@ -89216,7 +89216,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "71cf7b3f-5fb9-4eba-acf3-e1a7cf8c8b34",
         "date_posted": 1721145386,
@@ -98950,7 +98950,7 @@
         "company_name": "Trimble",
         "id": "b3ef5fe9-b9ba-4617-abb6-a51955dc14eb",
         "title": "Geomatics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116572,7 +116572,7 @@
         "company_name": "Solidigm",
         "id": "b9c8d902-85c9-4db6-8383-8dd69b10c983",
         "title": "SSD Firmware Development undergrad intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -117247,7 +117247,7 @@
         "company_name": "The Federal Reserve System",
         "id": "32ef44bb-c088-4224-967a-a935defb7c62",
         "title": "Summer 2025: Digital Money and Payments R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117974,7 +117974,7 @@
         "company_name": "Applied Materials",
         "id": "5e4ada73-bc4e-4c1e-b8bb-9219dbd0b88f",
         "title": "2025 Summer Intern - Software Engineer - Bachelor's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -123306,7 +123306,7 @@
         "company_name": "The Trade Desk",
         "id": "29acd598-2318-49f4-a228-324c0f225db5",
         "title": "Business Intelligence Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125316,6 +125316,27 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "19a5516f-9b37-4934-af07-ab6d535554d2",
+        "title": "2025 Intern - Enterprise Architecture Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729048470,
+        "date_posted": 1729048470,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Enterprise-Architecture-Analyst_R150709",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
     }

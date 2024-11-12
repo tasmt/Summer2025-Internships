@@ -98929,7 +98929,7 @@
         "company_name": "Symbotic",
         "id": "e07bd8f5-b3c5-4838-863c-5f631eb21099",
         "title": "Intern \u2013 Back End Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -109856,7 +109856,7 @@
         "company_name": "Marvell",
         "id": "2cea654a-969f-4142-9a74-070744c777a2",
         "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125305,7 +125305,7 @@
         "company_name": "Cadence Design Systems",
         "id": "227a143c-7c96-43d7-b75e-5ad17d393cc3",
         "title": "Summer Intern - Foundry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],

@@ -96985,7 +96985,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
         "title": "2025 Summer Internship Program - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98810,7 +98810,7 @@
         "company_name": "Epic Games",
         "id": "fc20b50e-c7c7-44e6-8b6c-2c8e5959900f",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125016,7 +125016,7 @@
         "company_name": "Motorola",
         "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
         "title": "Product and Data Research Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125605,6 +125605,25 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/d-Matrix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "caca820f-60cd-4bb2-a5be-f18b6a85ea3f",
+        "title": "Computer Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1722468282,
+        "date_posted": 1722468282,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00140633",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }

@@ -86285,7 +86285,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "37a800c5-c4cc-48aa-929e-1801d49f465d",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88906,7 +88906,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "e779e175-1975-4cdd-9e87-4d13b859e266",
         "date_posted": 1720487360,
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -115077,7 +115077,7 @@
         "company_name": "PlayStation Global",
         "id": "f6fdd5a6-1161-480e-895b-18b9eab1ff2b",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -117974,7 +117974,7 @@
         "company_name": "Applied Materials",
         "id": "5e4ada73-bc4e-4c1e-b8bb-9219dbd0b88f",
         "title": "2025 Summer Intern - Software Engineer - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124940,7 +124940,7 @@
         "company_name": "Motorola",
         "id": "f5c57622-31ff-4ea0-b1de-2fbb027e0834",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

@@ -94452,7 +94452,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99760,7 +99760,7 @@
         "company_name": "Booz Allen",
         "id": "20a15b1d-7aa8-4238-88d0-1df25e9c79ae",
         "title": "2025 Cyber Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -110511,7 +110511,7 @@
         "company_name": "Zoox",
         "id": "db6735fc-07e3-4794-a4ae-add9d39935d4",
         "title": "Backend Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124978,7 +124978,7 @@
         "company_name": "GlossGenius",
         "id": "b1bf78a4-3cac-410a-85e1-bd7ae967f976",
         "title": "Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125286,7 +125286,7 @@
         "company_name": "Astranis",
         "id": "595610e8-cbb6-40c5-bc66-5ccff930f294",
         "title": "Software Systems Hardware Integration Engineer Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],

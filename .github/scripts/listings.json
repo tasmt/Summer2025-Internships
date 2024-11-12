@@ -121598,7 +121598,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1a46bffa-7246-4395-add4-e21204a0954c",
         "title": "Data Analytics & Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -123766,7 +123766,7 @@
         "company_name": "Chainguard",
         "id": "0fec506d-9378-4da6-985c-dea67abd1345",
         "title": "Software Engineer Intern - Packaging",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2023"
         ],

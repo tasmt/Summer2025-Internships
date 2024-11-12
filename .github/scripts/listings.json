@@ -94564,7 +94564,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1724882063,
+        "date_updated": 1731455280,
         "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1203361600/",
         "company_name": "Grainger",
         "title": "Software Engineer Intern",
@@ -94574,8 +94574,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "e085d954-9873-4fae-a4ca-e2f8041a3653",
         "date_posted": 1724882063,

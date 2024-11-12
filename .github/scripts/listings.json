@@ -99411,7 +99411,7 @@
         "company_name": "Core Specialty",
         "id": "5d227c9a-4161-432e-960a-aae8aeb4838b",
         "title": "Summer Intern - IT Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -125471,6 +125471,25 @@
             "Rancho Cordova, CA"
         ],
         "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Core Specialty",
+        "id": "90bd7a56-318a-4a6c-9d47-81aaeb25c5e7",
+        "title": "Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731434031,
+        "date_posted": 1731434031,
+        "url": "https://corespecialtyinsurance.wd1.myworkdayjobs.com/en-US/Core_Specialty/job/Cincinnati-OH/Summer-Intern---Software-Engineering_JR100948",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/bd027e9d-7116-4d62-b558-b3ae0dac68fd",
         "is_visible": true,
         "sponsorship": "Other"
     }

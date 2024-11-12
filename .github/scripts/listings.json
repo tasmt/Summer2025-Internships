@@ -91572,7 +91572,7 @@
         "company_name": "Jump Trading",
         "id": "aa3c9a39-b03d-4365-9290-d29f2effa2a4",
         "title": "Campus Quantitative Trader \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -93186,7 +93186,7 @@
         "company_name": "Motorola",
         "id": "0e997eb2-3739-4d66-a5df-f9beef7eb436",
         "title": "Google Applications Developer Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -118129,7 +118129,7 @@
         "company_name": "Autodesk",
         "id": "8d77a420-d5bd-4c81-9af0-ac867428d99a",
         "title": "Intern \u2013 Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -125144,6 +125144,26 @@
             "Calgary, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ethic ",
+        "id": "46354946-7ee6-4f88-a031-00a7606f69a9",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1731370818,
+        "date_posted": 1731370818,
+        "url": "https://ethic.com/roles?gh_jid=6240297003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/d5c62d54-ba09-4cad-9400-e0d56f613bb9",
         "is_visible": true,
         "sponsorship": "Other"
     }

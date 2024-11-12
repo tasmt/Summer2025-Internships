@@ -113747,7 +113747,7 @@
         "company_name": "Adobe",
         "id": "6dd7a8a9-81d9-4f68-a9a7-2491ee03427f",
         "title": "2025 Intern - Software Development Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -123070,7 +123070,7 @@
         "company_name": "The Walt Disney Company",
         "id": "57b3594b-ea5c-41d6-b713-18e6cd658dbb",
         "title": "Broadcast Technology and Operations Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

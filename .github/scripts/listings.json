@@ -98950,7 +98950,7 @@
         "company_name": "Trimble",
         "id": "b3ef5fe9-b9ba-4617-abb6-a51955dc14eb",
         "title": "Geomatics Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103665,7 +103665,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ec3ab055-1c9f-4a75-9539-18a6d63bfe7d",
         "title": "Summer 2025 \u2013 Clinical Pharmacology Analysis and Reporting/Data Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -116572,7 +116572,7 @@
         "company_name": "Solidigm",
         "id": "b9c8d902-85c9-4db6-8383-8dd69b10c983",
         "title": "SSD Firmware Development undergrad intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"

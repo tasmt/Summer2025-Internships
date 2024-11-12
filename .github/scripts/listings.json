@@ -85691,7 +85691,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "f4603ba7-0444-4908-b2a2-da4c2a5ae98a",
         "title": "2025 Summer Internship - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -94375,7 +94375,7 @@
         "company_name": "Vectra",
         "id": "4b1b5d88-3a23-4901-bf4f-84b181138bf1",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99700,7 +99700,7 @@
         "company_name": "Lucid Motors",
         "id": "d19601ff-c81d-42c3-bf3d-cf64ae822fbc",
         "title": "Intern \u2013 Tooling Analyst - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125152,7 +125152,7 @@
         "company_name": "Ethic ",
         "id": "46354946-7ee6-4f88-a031-00a7606f69a9",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -125191,7 +125191,7 @@
         "company_name": "Intradiem",
         "id": "29fbdeca-bbfb-4a2b-adb0-9944374bdc57",
         "title": "Summer 2025 Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

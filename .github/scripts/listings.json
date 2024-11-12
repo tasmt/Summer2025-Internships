@@ -111701,7 +111701,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1728447433,
+        "date_updated": 1731455692,
         "url": "https://zebra.eightfold.ai/careers?domain=zebra.com&pid=343622121226",
         "company_name": "Zebra Technologies",
         "title": "2025 Summer Internship (US) - ADC Software Intern",
@@ -111711,8 +111711,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "e3c0edc9-cb50-4943-a31f-d591b275f5ed",
         "date_posted": 1728447433,

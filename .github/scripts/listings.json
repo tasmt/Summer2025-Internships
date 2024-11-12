@@ -88906,7 +88906,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "e779e175-1975-4cdd-9e87-4d13b859e266",
         "date_posted": 1720487360,
@@ -103665,7 +103665,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ec3ab055-1c9f-4a75-9539-18a6d63bfe7d",
         "title": "Summer 2025 \u2013 Clinical Pharmacology Analysis and Reporting/Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120863,7 +120863,7 @@
         "company_name": "Corelogic",
         "id": "01bb67ef-5334-490d-aee5-c8b719f3048f",
         "title": "Intern \u2013 Geospatial Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -125337,6 +125337,44 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shield AI",
+        "id": "584e3ea4-e46d-4ffe-9848-4d538237802b",
+        "title": "Integration and Test Engineering Intern \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729818729,
+        "date_posted": 1728070287,
+        "url": "https://jobs.lever.co/shieldai/a5b2b69e-94eb-495c-8f12-5e290d5aad5a/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "a90e260f-0bc7-46b9-9657-e412f3cda920",
+        "title": "Graduate Intern - Business & Data Analysis - Facility Operations - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729900157,
+        "date_posted": 1729900157,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Business---Data-Analysis--Facility-Operations---Spring-2025_JR104745",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
         "is_visible": true,
         "sponsorship": "Other"
     }

@@ -88032,7 +88032,7 @@
         "company_name": "Kargo",
         "id": "8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
         "title": "Backend Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -112353,7 +112353,7 @@
         "company_name": "Verkada",
         "id": "51778e24-f875-4706-b4e7-161edf5e5646",
         "title": "IOS Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118286,7 +118286,7 @@
         "company_name": "Analog Devices",
         "id": "b421e6ba-76c1-4dd7-af5f-d960efdb1e56",
         "title": "Machine Learning Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121598,7 +121598,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1a46bffa-7246-4395-add4-e21204a0954c",
         "title": "Data Analytics & Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -123766,7 +123766,7 @@
         "company_name": "Chainguard",
         "id": "0fec506d-9378-4da6-985c-dea67abd1345",
         "title": "Software Engineer Intern - Packaging",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -125016,7 +125016,7 @@
         "company_name": "Motorola",
         "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
         "title": "Product and Data Research Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

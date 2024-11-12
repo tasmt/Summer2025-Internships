@@ -91839,7 +91839,7 @@
         "company_name": "Jump Trading",
         "id": "488d5ffc-e39a-47fd-b83a-0b71be5f12d0",
         "title": "Campus Quantitative Researcher \u2013 M1/M2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125490,6 +125490,25 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/bd027e9d-7116-4d62-b558-b3ae0dac68fd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dev Technology Group",
+        "id": "0247f3c3-b65b-4905-9789-1d25edd24d4c",
+        "title": "Summer M365/Power Platform Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731435047,
+        "date_posted": 1731435047,
+        "url": "https://job-boards.greenhouse.io/devtechnology/jobs/7723083002",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/DevTechGrp",
         "is_visible": true,
         "sponsorship": "Other"
     }

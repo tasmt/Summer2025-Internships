@@ -86285,7 +86285,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "37a800c5-c4cc-48aa-929e-1801d49f465d",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],

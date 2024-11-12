@@ -97971,7 +97971,7 @@
         "company_name": "Accenture Federal Services",
         "id": "25c82e99-58da-4061-aaca-d5691a205c9d",
         "title": "Technology Development Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101178,7 +101178,7 @@
         "company_name": "The Voleon Group",
         "id": "f8559f30-e4a2-4a26-824b-258ec0dae6e2",
         "title": "Trading Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -102842,7 +102842,7 @@
         "company_name": "Symbotic",
         "id": "0f48d1d2-9532-4bb2-b394-31b8f4592661",
         "title": "Co-op-Front End Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112467,7 +112467,7 @@
         "company_name": "Alchemy",
         "id": "d728c7a5-7f01-4946-857e-59e752481e4e",
         "title": "Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117325,7 +117325,7 @@
         "company_name": "AVEVA",
         "id": "a9488c3b-e3b3-4b54-8c42-5365045bf62b",
         "title": "Software Developer Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -118286,7 +118286,7 @@
         "company_name": "Analog Devices",
         "id": "b421e6ba-76c1-4dd7-af5f-d960efdb1e56",
         "title": "Machine Learning Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -118576,7 +118576,7 @@
         "company_name": "Oshkosh",
         "id": "97cd097d-c564-4df5-9566-8a8f051b95bd",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124074,7 +124074,7 @@
         "company_name": "Motorola",
         "id": "96f65049-a0dc-45f4-9a4f-dbe998e26215",
         "title": "Software Development 2024 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124441,7 +124441,7 @@
         "company_name": "Leidos",
         "id": "d8d88a17-b6bb-4166-a963-55b9cdd75116",
         "title": "AI Explainability Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125452,6 +125452,25 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "6414eac8-573a-40fc-a87c-d2dd86a472aa",
+        "title": "Debug Tools Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731431738,
+        "date_posted": 1731431738,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000026025104",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
         "is_visible": true,
         "sponsorship": "Other"
     }

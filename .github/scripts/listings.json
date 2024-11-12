@@ -104170,7 +104170,7 @@
         "company_name": "OakNorth Bank",
         "id": "15d466bb-a146-4345-89b7-1ad5e46b1cbe",
         "title": "Associate/Internship \u2013 Senior Managing Director's Office",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110206,7 +110206,7 @@
         "company_name": "Waymo",
         "id": "e7598e50-292c-453d-9f55-b55edcbe1a48",
         "title": "2025 Summer Intern - Waymo Commercialization - Fleet Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

@@ -125223,5 +125223,24 @@
         "date_posted": 1731388914,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731389099,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01282270/Artificial-Intelligence-Internship?rx_ch=jobpost&rx_job=R-01282270-1",
+        "company_name": "Thermo Fisher Scientific",
+        "title": "Artificial Intelligence Internship",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "0d4b281d-4461-4df8-8b91-fdb56c075ba5",
+        "date_posted": 1731389099,
+        "company_url": "",
+        "is_visible": true
     }
 ]

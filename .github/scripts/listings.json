@@ -118110,7 +118110,7 @@
         "company_name": "FHLBank Chicago",
         "id": "1e1558d1-4a1d-43b6-b00a-b14c1442daea",
         "title": "Summer Internship - Business Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -125403,7 +125403,7 @@
         "company_name": "Andreessen Horowitz",
         "id": "0d8ab62d-eb27-41cc-badd-f0e59f0d162a",
         "title": "Summer 2025 Research Internship - Crypto",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125632,7 +125632,7 @@
         "company_name": "Rivian",
         "id": "2871d05e-f1d7-4608-a557-500503989181",
         "title": "UIUC Research Park Intern - Embedded Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Spring 2025",
@@ -126011,6 +126011,26 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KnowBe4",
+        "id": "2bb54220-bc4e-4f8a-841f-f54495edfeaf",
+        "title": "Courseware Technologist Intern - Hybrid",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1727824222,
+        "date_posted": 1727824222,
+        "url": "https://boards.greenhouse.io/knowbe4/jobs/7282446002",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/KnowBe4",
         "is_visible": true,
         "sponsorship": "Other"
     }

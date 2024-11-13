@@ -43956,7 +43956,7 @@
         "company_name": "Neuralink",
         "id": "f42b6aae-8434-41fa-97bf-f0f1a496395b",
         "title": "Surgery Operations Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -126070,6 +126070,25 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trimble",
+        "id": "f4464373-92ed-455e-a9e6-333093a58a55",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731538085,
+        "date_posted": 1731538085,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Product-Engineer-Intern_R47174",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
         "is_visible": true,
         "sponsorship": "Other"
     }

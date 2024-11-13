@@ -124959,7 +124959,7 @@
         "company_name": "Motorola",
         "id": "f08b0343-623f-4142-9a24-0e614785312b",
         "title": "2025 Summer Internship - Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125517,7 +125517,7 @@
         "company_name": "JM Family",
         "id": "4cda136a-4687-4768-b39f-0ff8fbb4f8ee",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -125767,7 +125767,7 @@
         "company_name": "Relay",
         "id": "56303ea5-bdbb-4c09-b40f-d4ce16e982e3",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

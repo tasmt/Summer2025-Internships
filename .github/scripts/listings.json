@@ -79708,7 +79708,7 @@
         "company_name": "Aurora University",
         "id": "5b81ec3f-6858-43e8-9b00-0cf85939bf84",
         "title": "Internship Interest Form",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],

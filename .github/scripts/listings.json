@@ -99700,7 +99700,7 @@
         "company_name": "Lucid Motors",
         "id": "d19601ff-c81d-42c3-bf3d-cf64ae822fbc",
         "title": "Intern \u2013 Tooling Analyst - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125613,7 +125613,7 @@
         "company_name": "Leidos",
         "id": "caca820f-60cd-4bb2-a5be-f18b6a85ea3f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],

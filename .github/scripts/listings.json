@@ -104170,7 +104170,7 @@
         "company_name": "OakNorth Bank",
         "id": "15d466bb-a146-4345-89b7-1ad5e46b1cbe",
         "title": "Associate/Internship \u2013 Senior Managing Director's Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112527,7 +112527,7 @@
         "company_name": "Pinterest",
         "id": "c1cc25af-2498-4bf0-93eb-5c7fcb07bb2c",
         "title": "IT Systems Engineering Intern - USA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -113572,7 +113572,7 @@
         "company_name": "Solidigm",
         "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
         "title": "SSD Validation Development Undergrad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122917,7 +122917,7 @@
         "company_name": "Nike",
         "id": "1c8ea5be-83cd-470e-9e17-b033d3229c43",
         "title": "Nike \u2013 Inc Digital Capabilities Graduate Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],

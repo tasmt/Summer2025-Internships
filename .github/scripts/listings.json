@@ -43956,7 +43956,7 @@
         "company_name": "Neuralink",
         "id": "f42b6aae-8434-41fa-97bf-f0f1a496395b",
         "title": "Surgery Operations Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -91298,7 +91298,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "bff02a0d-f389-4473-b6ab-f93b56427d0f",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112527,7 +112527,7 @@
         "company_name": "Pinterest",
         "id": "c1cc25af-2498-4bf0-93eb-5c7fcb07bb2c",
         "title": "IT Systems Engineering Intern - USA",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -117247,7 +117247,7 @@
         "company_name": "The Federal Reserve System",
         "id": "32ef44bb-c088-4224-967a-a935defb7c62",
         "title": "Summer 2025: Digital Money and Payments R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117878,7 +117878,7 @@
         "company_name": "Pacific Life",
         "id": "21c1cbd6-5f9e-47c1-8ad4-4c02c5299be5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

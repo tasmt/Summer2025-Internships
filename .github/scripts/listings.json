@@ -86133,7 +86133,7 @@
         "company_name": "XPeng Motors",
         "id": "e275a4c8-4f25-40d4-83ec-64c54d6d2dcf",
         "title": "Planning Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -102408,7 +102408,7 @@
         "company_name": "Gilead Sciences",
         "id": "2c9e8988-f170-468c-85fc-bb06991102b8",
         "title": "Intern \u2013 Clinical Data Science - Advanced Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -113572,7 +113572,7 @@
         "company_name": "Solidigm",
         "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
         "title": "SSD Validation Development Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117247,7 +117247,7 @@
         "company_name": "The Federal Reserve System",
         "id": "32ef44bb-c088-4224-967a-a935defb7c62",
         "title": "Summer 2025: Digital Money and Payments R&D Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125786,7 +125786,7 @@
         "company_name": "Gridmatic",
         "id": "14701fee-935b-408c-bc7c-ae2efe14f3b7",
         "title": "Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

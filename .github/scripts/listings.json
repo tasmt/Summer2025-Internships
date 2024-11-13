@@ -103645,7 +103645,7 @@
         "company_name": "F5",
         "id": "aa8948a2-d072-4ff2-84b8-84f6424421ab",
         "title": "Software Engineer Intern - San Jose",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103794,7 +103794,7 @@
         "company_name": "F5",
         "id": "21f6d894-76a9-426f-b6d7-3f3b28ec3c4d",
         "title": "Software Engineer Intern - Seattle",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -125797,6 +125797,45 @@
             "Cupertino, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gridmatic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "31b3b46e-612c-49a9-b1e7-b6d135be74ad",
+        "title": "Software Development Engineer Internship in Test-2025 - US",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028",
+            "Fall 2028"
+        ],
+        "date_updated": 1731459145,
+        "date_posted": 1731459145,
+        "url": "https://amazon.jobs/en/jobs/2828378/software-development-engineer-internship-in-test-2025-us",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Austin, TX",
+            "Irvine, CA",
+            "Redmond, WA",
+            "NYC",
+            "Minneapolis, MN",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other"
     }

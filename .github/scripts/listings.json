@@ -125935,5 +125935,24 @@
         "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "37eb7207-cbe3-43fd-ac98-fd02b490b614",
+        "title": "Boston Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731473207,
+        "date_posted": 1731473207,
+        "url": "https://www.skydio.com/jobs/6220824003?gh_jid=6220824003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

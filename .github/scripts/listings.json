@@ -99585,7 +99585,7 @@
         "company_name": "Lucid Motors",
         "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
         "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117287,7 +117287,7 @@
         "company_name": "Nordson",
         "id": "cabf6cc0-1d59-4daa-bf9e-92447dc65d3f",
         "title": "Intern \u2013 Enterprise Architecture Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125324,7 +125324,7 @@
         "company_name": "Adobe",
         "id": "19a5516f-9b37-4934-af07-ab6d535554d2",
         "title": "2025 Intern - Enterprise Architecture Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -125901,7 +125901,7 @@
         "company_name": "Zoox",
         "id": "5729faa6-0a3f-4414-be25-bdbaf9b8f443",
         "title": "Collision Avoidance System \u2013 Machine Learning Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

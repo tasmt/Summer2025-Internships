@@ -107015,7 +107015,7 @@
         "company_name": "Expedia",
         "id": "aeec485a-ce30-4833-9648-4d8872246eee",
         "title": "Mobile Engineering Intern - 2025 - Seattle - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -108809,7 +108809,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "ed7573e9-70c2-428a-9f96-99be0a3a6134",
         "title": "ML Research Intern - Winter/Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",

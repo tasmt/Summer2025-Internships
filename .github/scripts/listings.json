@@ -125954,5 +125954,24 @@
         "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731474887,
+        "url": "https://globalus242.dayforcehcm.com/CandidatePortal/en-US/lightbox/Site/LIGHTBOXCAREERS/Posting/View/456",
+        "company_name": "LighBox",
+        "title": "Engineering - Data Platform - Software Engineer",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d8b295cf-ff32-4338-a5e1-d40a1d159831",
+        "date_posted": 1731474887,
+        "company_url": "",
+        "is_visible": true
     }
 ]

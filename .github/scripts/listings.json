@@ -93739,7 +93739,7 @@
         "company_name": "DriveTime",
         "id": "6675a0c9-148e-4095-ad5d-e711c67a3daa",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125305,7 +125305,7 @@
         "company_name": "Cadence Design Systems",
         "id": "227a143c-7c96-43d7-b75e-5ad17d393cc3",
         "title": "Summer Intern - Foundry",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -125345,7 +125345,7 @@
         "company_name": "Shield AI",
         "id": "584e3ea4-e46d-4ffe-9848-4d538237802b",
         "title": "Integration and Test Engineering Intern \u2013 2025 Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],

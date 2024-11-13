@@ -47304,7 +47304,7 @@
         "company_name": "Keywords Studios",
         "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
         "title": "Research Intern - AI Start-up",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -99585,7 +99585,7 @@
         "company_name": "Lucid Motors",
         "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
         "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125267,7 +125267,7 @@
         "company_name": "Ensemble",
         "id": "238e448b-5958-4227-a56a-a580fb2b5673",
         "title": "IT and Operations Support Coordinator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],

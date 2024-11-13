@@ -125973,5 +125973,26 @@
         "date_posted": 1731474887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731475041,
+        "url": "https://careers.se.com/jobs/80573",
+        "company_name": "Schneider Electric",
+        "title": "Computer Science Intern",
+        "locations": [
+            "Nashville, TN",
+            "Columbia, SC",
+            "El Paso, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "6fa77f01-6abc-432f-a36f-2ee5d8efe944",
+        "date_posted": 1731475041,
+        "company_url": "",
+        "is_visible": true
     }
 ]

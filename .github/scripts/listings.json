@@ -91298,7 +91298,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "bff02a0d-f389-4473-b6ab-f93b56427d0f",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99760,7 +99760,7 @@
         "company_name": "Booz Allen",
         "id": "20a15b1d-7aa8-4238-88d0-1df25e9c79ae",
         "title": "2025 Cyber Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -101686,7 +101686,7 @@
         "company_name": "Cerebras",
         "id": "37753852-ed0e-43ab-af8e-c4de705fd9f1",
         "title": "Applied Machine Learning Engineer \u2013 Internship - PEY 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117287,7 +117287,7 @@
         "company_name": "Nordson",
         "id": "cabf6cc0-1d59-4daa-bf9e-92447dc65d3f",
         "title": "Intern \u2013 Enterprise Architecture Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -123522,7 +123522,7 @@
         "company_name": "Five Rings Capital",
         "id": "6c6988bb-c028-49a7-9e03-888e579b3e82",
         "title": "Summer Intern 2025 - Quantitative Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125403,7 +125403,7 @@
         "company_name": "Andreessen Horowitz",
         "id": "0d8ab62d-eb27-41cc-badd-f0e59f0d162a",
         "title": "Summer 2025 Research Internship - Crypto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125613,7 +125613,7 @@
         "company_name": "Leidos",
         "id": "caca820f-60cd-4bb2-a5be-f18b6a85ea3f",
         "title": "Computer Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],

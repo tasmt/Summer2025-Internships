@@ -86133,7 +86133,7 @@
         "company_name": "XPeng Motors",
         "id": "e275a4c8-4f25-40d4-83ec-64c54d6d2dcf",
         "title": "Planning Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99585,7 +99585,7 @@
         "company_name": "Lucid Motors",
         "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
         "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120300,7 +120300,7 @@
         "company_name": "Anduril",
         "id": "a42b1849-e876-49de-9de1-e555977bbdc5",
         "title": "Embedded Haskell Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -125994,5 +125994,24 @@
         "date_posted": 1731475041,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCSC",
+        "id": "7b1a803c-3698-41e7-8e22-ef7aeb66162a",
+        "title": "University Relations \u2013 Associate Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731501937,
+        "date_posted": 1731501937,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/University-Relations---Associate-Automation-Intern_R0042314",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

@@ -100147,7 +100147,7 @@
         "company_name": "Super",
         "id": "3eb69fb1-0cdf-449b-9ab6-bf77a245906e",
         "title": "Software Engineering Intern - Infrastructure/Devops - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -125267,7 +125267,7 @@
         "company_name": "Ensemble",
         "id": "238e448b-5958-4227-a56a-a580fb2b5673",
         "title": "IT and Operations Support Coordinator Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],

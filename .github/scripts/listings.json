@@ -117209,7 +117209,7 @@
         "company_name": "Pacific Life",
         "id": "498881e1-cd8b-4b9d-ac87-e6a6edfbad3a",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117464,7 +117464,7 @@
         "company_name": "JM Family",
         "id": "7433b379-7fa2-4a70-95ef-ed5d85ac3704",
         "title": "Intern \u2013 Technology Initiatives",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -117758,7 +117758,7 @@
         "company_name": "JM Family",
         "id": "350fa01a-368a-4bfa-b458-b1576664b7c1",
         "title": "Intern \u2013 Portfolio Coordinator",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -117778,7 +117778,7 @@
         "company_name": "Pacific Life",
         "id": "84750896-7790-4fd0-95ab-5cd8b2f660e7",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124114,7 +124114,7 @@
         "company_name": "Quora",
         "id": "6d3e693b-2541-4050-983f-b7775ce7ea0f",
         "title": "Machine Learning Engineer Intern - Canada - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],

@@ -117266,7 +117266,7 @@
         "company_name": "AVEVA",
         "id": "fd111ff5-5c04-450d-8e69-6103691a4f94",
         "title": "Services and Practices Intern - US",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -123146,7 +123146,7 @@
         "company_name": "Motorola",
         "id": "a732adc6-8201-4187-8bd5-c34b056496cc",
         "title": "Audio Software Engineer \u2013 Spring 2025 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -126089,6 +126089,44 @@
             "Dayton, OH"
         ],
         "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "8a89e841-6021-4ebb-824b-2ed71882ad3a",
+        "title": "2025 Data Science Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731539109,
+        "date_posted": 1731539109,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6322253",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "eaa1d24c-92e0-4e24-ae48-dc894cfe5647",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731539062,
+        "date_posted": 1731539062,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Boise-Idaho-United-States-of-America/Data-Analyst-Intern_UNI1574",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
     }

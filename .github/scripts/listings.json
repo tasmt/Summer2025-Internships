@@ -125685,5 +125685,119 @@
         "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "d-Matrix",
+        "id": "aaab5c2f-a4ee-4662-b73e-b911bd1dfad2",
+        "title": "Compiler Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731458501,
+        "date_posted": 1731458501,
+        "url": "https://jobs.ashbyhq.com/d-Matrix/458a7ddb-1c65-4255-a84f-514d540b19c6/application",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/d-Matrix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "d-Matrix",
+        "id": "6d689b83-7e14-40d3-9a9f-f84f2bb12fd1",
+        "title": "Compiler Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731458504,
+        "date_posted": 1731458504,
+        "url": "https://jobs.ashbyhq.com/d-Matrix/098e42ca-a368-49fe-87b9-7d61a9150f4b/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/d-Matrix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vantage Data Centers",
+        "id": "7efa9151-44d4-4fbf-99b6-1970a90c3e01",
+        "title": "Product Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731458096,
+        "date_posted": 1731458096,
+        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Product-Innovation-Intern--NA_R16566",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Behaviour Interactive",
+        "id": "f129dcac-fd3f-474e-b63e-7ece52ba3233",
+        "title": "Marketing Data Analyst \u2013 Internship Winter 2025 - Analyste de donn\u00e9es Marketing - Stage Hiver 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1731458048,
+        "date_posted": 1731458048,
+        "url": "https://jobs.lever.co/bhvr/db5d1af8-2443-4375-9101-f0a1bb94c528/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Behaviour-Interactive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relay",
+        "id": "56303ea5-bdbb-4c09-b40f-d4ce16e982e3",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731458029,
+        "date_posted": 1731458029,
+        "url": "https://job-boards.greenhouse.io/relaypro/jobs/6391870",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RelayPro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gridmatic",
+        "id": "14701fee-935b-408c-bc7c-ae2efe14f3b7",
+        "title": "Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731457947,
+        "date_posted": 1731457947,
+        "url": "https://jobs.lever.co/gridmatic/e9ccb91b-11c2-4ce4-aada-d85f9b22c2e4/apply",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gridmatic",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

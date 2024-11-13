@@ -79708,7 +79708,7 @@
         "company_name": "Aurora University",
         "id": "5b81ec3f-6858-43e8-9b00-0cf85939bf84",
         "title": "Internship Interest Form",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86133,7 +86133,7 @@
         "company_name": "XPeng Motors",
         "id": "e275a4c8-4f25-40d4-83ec-64c54d6d2dcf",
         "title": "Planning Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89342,7 +89342,7 @@
         "company_name": "Point72",
         "id": "793bcd34-4a64-46a3-a84a-2cd684a0bef8",
         "title": "2024 Software Engineer Internship - Long/Short Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -104170,7 +104170,7 @@
         "company_name": "OakNorth Bank",
         "id": "15d466bb-a146-4345-89b7-1ad5e46b1cbe",
         "title": "Associate/Internship \u2013 Senior Managing Director's Office",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125920,7 +125920,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "f135aac4-f047-4f50-bf38-aaaedd6b0d96",
         "title": "2025 US Co-Op - Game Production",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",

@@ -93640,7 +93640,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1724287691,
+        "date_updated": 1731566371,
         "url": "https://www.geckorobotics.com/careers?ashby_jid=324af8fa-cab0-47b2-908c-f26fbd54d668#open-positions",
         "company_name": "Gecko Robotics",
         "title": "Software Engineer - Intern",
@@ -93651,7 +93651,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "jkahn33",
         "id": "59eda13c-9e1d-4e12-8408-3ae7d9e3a2a7",
         "date_posted": 1724287691,

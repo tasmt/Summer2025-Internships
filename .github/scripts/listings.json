@@ -123146,7 +123146,7 @@
         "company_name": "Motorola",
         "id": "a732adc6-8201-4187-8bd5-c34b056496cc",
         "title": "Audio Software Engineer \u2013 Spring 2025 Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -126165,6 +126165,25 @@
             "Albuquerque, NM"
         ],
         "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Syska Hennessy Group",
+        "id": "7627201d-392d-4e0a-bfa0-f968efd9029c",
+        "title": "Innovations Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731547689,
+        "date_posted": 1731547689,
+        "url": "https://syska.com/join-us/job_application/?gh_jid=6395698",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Syska-Hennessy-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }

@@ -99585,7 +99585,7 @@
         "company_name": "Lucid Motors",
         "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
         "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125267,7 +125267,7 @@
         "company_name": "Ensemble",
         "id": "238e448b-5958-4227-a56a-a580fb2b5673",
         "title": "IT and Operations Support Coordinator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -126146,6 +126146,25 @@
             "Knoxville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Tombras",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rocket Lab USA",
+        "id": "ffc2c0a4-da6c-4bc2-9c2e-d5d6e209c220",
+        "title": "Web Software Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731546826,
+        "date_posted": 1731546826,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6241895003",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
         "is_visible": true,
         "sponsorship": "Other"
     }

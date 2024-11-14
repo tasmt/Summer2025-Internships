@@ -117037,7 +117037,7 @@
         "company_name": "FHLBank Chicago",
         "id": "ee9cc87b-3f83-4673-aef9-6b8a9ea9ca04",
         "title": "Summer Internship - Data Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],

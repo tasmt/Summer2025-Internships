@@ -88975,7 +88975,7 @@
         "company_name": "Strider Technologies",
         "id": "9c871a95-1566-4a9f-be6f-085c49133eb0",
         "title": "Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120940,7 +120940,7 @@
         "company_name": "PitchBook",
         "id": "7892391d-4ea1-44b3-8d64-b186b04b552f",
         "title": "Data Analyst Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -125324,7 +125324,7 @@
         "company_name": "Adobe",
         "id": "19a5516f-9b37-4934-af07-ab6d535554d2",
         "title": "2025 Intern - Enterprise Architecture Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",

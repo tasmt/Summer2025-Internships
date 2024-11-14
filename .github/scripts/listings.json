@@ -94452,7 +94452,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109856,7 +109856,7 @@
         "company_name": "Marvell",
         "id": "2cea654a-969f-4142-9a74-070744c777a2",
         "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],

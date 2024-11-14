@@ -126196,10 +126196,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1731548518,
+        "date_updated": 1731565441,
         "date_posted": 1731548518,
         "url": "https://jobs.lever.co/zoox/312b5ede-f3be-4699-94ac-dff77b42ca70/apply",
-        "locations": [],
+        "locations": [
+            "Foster City, CA"
+        ],
         "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"

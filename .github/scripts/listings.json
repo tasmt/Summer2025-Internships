@@ -126186,5 +126186,22 @@
         "company_url": "https://simplify.jobs/c/Syska-Hennessy-Group",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "ddb2ff73-418e-400c-8416-76a6e71bbc95",
+        "title": "Data Publishing \u2013 And Scale Internship - Access - Deploy",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731548518,
+        "date_posted": 1731548518,
+        "url": "https://jobs.lever.co/zoox/312b5ede-f3be-4699-94ac-dff77b42ca70/apply",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
